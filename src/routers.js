@@ -1,10 +1,10 @@
 export default [{
   path: '/',
   name: 'home',
-  component: require('./views/home/index')
+  component: require('./views/home/Index')
 }, {
   path: '/category/:id',
   name: 'category',
-  component: require('./views/category/index')
+  component: require('./views/category/Index')
 }]
 
