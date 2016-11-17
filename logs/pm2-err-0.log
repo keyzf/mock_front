@@ -1,0 +1,1167 @@
+2016-11-17 21:01 +08:00: Thu, 17 Nov 2016 13:01:19 GMT koa deprecated Support for generators will been removed in v3. See the documentation for examples of how to convert old middleware https://github.com/koajs/koa/tree/v2.x#old-signature-middleware-v1x at mock_app.js:31:5
+2016-11-17 21:01 +08:00: Thu, 17 Nov 2016 13:01:19 GMT koa deprecated Support for generators will been removed in v3. See the documentation for examples of how to convert old middleware https://github.com/koajs/koa/tree/v2.x#old-signature-middleware-v1x at mock_app.js:32:5
+2016-11-17 21:01 +08:00: Thu, 17 Nov 2016 13:01:34 GMT koa deprecated Support for generators will been removed in v3. See the documentation for examples of how to convert old middleware https://github.com/koajs/koa/tree/v2.x#old-signature-middleware-v1x at mock_app.js:31:5
+2016-11-17 21:01 +08:00: Thu, 17 Nov 2016 13:01:34 GMT koa deprecated Support for generators will been removed in v3. See the documentation for examples of how to convert old middleware https://github.com/koajs/koa/tree/v2.x#old-signature-middleware-v1x at mock_app.js:32:5
+2016-11-17 21:04 +08:00: Thu, 17 Nov 2016 13:04:14 GMT koa deprecated Support for generators will been removed in v3. See the documentation for examples of how to convert old middleware https://github.com/koajs/koa/tree/v2.x#old-signature-middleware-v1x at mock_app.js:31:5
+2016-11-17 21:04 +08:00: Thu, 17 Nov 2016 13:04:14 GMT koa deprecated Support for generators will been removed in v3. See the documentation for examples of how to convert old middleware https://github.com/koajs/koa/tree/v2.x#old-signature-middleware-v1x at mock_app.js:32:5
+2016-11-17 21:04 +08:00: Thu, 17 Nov 2016 13:04:16 GMT koa deprecated Support for generators will been removed in v3. See the documentation for examples of how to convert old middleware https://github.com/koajs/koa/tree/v2.x#old-signature-middleware-v1x at mock_app.js:31:5
+2016-11-17 21:04 +08:00: Thu, 17 Nov 2016 13:04:16 GMT koa deprecated Support for generators will been removed in v3. See the documentation for examples of how to convert old middleware https://github.com/koajs/koa/tree/v2.x#old-signature-middleware-v1x at mock_app.js:32:5
+2016-11-17 21:04 +08:00: Thu, 17 Nov 2016 13:04:18 GMT koa deprecated Support for generators will been removed in v3. See the documentation for examples of how to convert old middleware https://github.com/koajs/koa/tree/v2.x#old-signature-middleware-v1x at mock_app.js:31:5
+2016-11-17 21:04 +08:00: Thu, 17 Nov 2016 13:04:18 GMT koa deprecated Support for generators will been removed in v3. See the documentation for examples of how to convert old middleware https://github.com/koajs/koa/tree/v2.x#old-signature-middleware-v1x at mock_app.js:32:5
+2016-11-17 21:04 +08:00: Thu, 17 Nov 2016 13:04:20 GMT koa deprecated Support for generators will been removed in v3. See the documentation for examples of how to convert old middleware https://github.com/koajs/koa/tree/v2.x#old-signature-middleware-v1x at mock_app.js:31:5
+2016-11-17 21:04 +08:00: Thu, 17 Nov 2016 13:04:20 GMT koa deprecated Support for generators will been removed in v3. See the documentation for examples of how to convert old middleware https://github.com/koajs/koa/tree/v2.x#old-signature-middleware-v1x at mock_app.js:32:5
+2016-11-17 21:04 +08:00: Thu, 17 Nov 2016 13:04:30 GMT koa deprecated Support for generators will been removed in v3. See the documentation for examples of how to convert old middleware https://github.com/koajs/koa/tree/v2.x#old-signature-middleware-v1x at mock_app.js:31:5
+2016-11-17 21:04 +08:00: Thu, 17 Nov 2016 13:04:30 GMT koa deprecated Support for generators will been removed in v3. See the documentation for examples of how to convert old middleware https://github.com/koajs/koa/tree/v2.x#old-signature-middleware-v1x at mock_app.js:32:5
+2016-11-17 21:04 +08:00: Thu, 17 Nov 2016 13:04:35 GMT koa deprecated Support for generators will been removed in v3. See the documentation for examples of how to convert old middleware https://github.com/koajs/koa/tree/v2.x#old-signature-middleware-v1x at mock_app.js:31:5
+2016-11-17 21:04 +08:00: Thu, 17 Nov 2016 13:04:35 GMT koa deprecated Support for generators will been removed in v3. See the documentation for examples of how to convert old middleware https://github.com/koajs/koa/tree/v2.x#old-signature-middleware-v1x at mock_app.js:32:5
+2016-11-17 21:04 +08:00: Thu, 17 Nov 2016 13:04:46 GMT koa deprecated Support for generators will been removed in v3. See the documentation for examples of how to convert old middleware https://github.com/koajs/koa/tree/v2.x#old-signature-middleware-v1x at mock_app.js:31:5
+2016-11-17 21:04 +08:00: Thu, 17 Nov 2016 13:04:46 GMT koa deprecated Support for generators will been removed in v3. See the documentation for examples of how to convert old middleware https://github.com/koajs/koa/tree/v2.x#old-signature-middleware-v1x at mock_app.js:32:5
+2016-11-17 21:04 +08:00: Thu, 17 Nov 2016 13:04:50 GMT koa deprecated Support for generators will been removed in v3. See the documentation for examples of how to convert old middleware https://github.com/koajs/koa/tree/v2.x#old-signature-middleware-v1x at mock_app.js:31:5
+2016-11-17 21:04 +08:00: Thu, 17 Nov 2016 13:04:50 GMT koa deprecated Support for generators will been removed in v3. See the documentation for examples of how to convert old middleware https://github.com/koajs/koa/tree/v2.x#old-signature-middleware-v1x at mock_app.js:32:5
+2016-11-17 21:04 +08:00: Thu, 17 Nov 2016 13:04:52 GMT koa deprecated Support for generators will been removed in v3. See the documentation for examples of how to convert old middleware https://github.com/koajs/koa/tree/v2.x#old-signature-middleware-v1x at mock_app.js:31:5
+2016-11-17 21:04 +08:00: Thu, 17 Nov 2016 13:04:52 GMT koa deprecated Support for generators will been removed in v3. See the documentation for examples of how to convert old middleware https://github.com/koajs/koa/tree/v2.x#old-signature-middleware-v1x at mock_app.js:32:5
+2016-11-17 21:04 +08:00: Thu, 17 Nov 2016 13:04:57 GMT koa deprecated Support for generators will been removed in v3. See the documentation for examples of how to convert old middleware https://github.com/koajs/koa/tree/v2.x#old-signature-middleware-v1x at mock_app.js:31:5
+2016-11-17 21:04 +08:00: Thu, 17 Nov 2016 13:04:57 GMT koa deprecated Support for generators will been removed in v3. See the documentation for examples of how to convert old middleware https://github.com/koajs/koa/tree/v2.x#old-signature-middleware-v1x at mock_app.js:32:5
+2016-11-17 21:04 +08:00: Thu, 17 Nov 2016 13:04:59 GMT koa deprecated Support for generators will been removed in v3. See the documentation for examples of how to convert old middleware https://github.com/koajs/koa/tree/v2.x#old-signature-middleware-v1x at mock_app.js:31:5
+2016-11-17 21:04 +08:00: Thu, 17 Nov 2016 13:04:59 GMT koa deprecated Support for generators will been removed in v3. See the documentation for examples of how to convert old middleware https://github.com/koajs/koa/tree/v2.x#old-signature-middleware-v1x at mock_app.js:32:5
+2016-11-17 21:05 +08:00: Thu, 17 Nov 2016 13:05:02 GMT koa deprecated Support for generators will been removed in v3. See the documentation for examples of how to convert old middleware https://github.com/koajs/koa/tree/v2.x#old-signature-middleware-v1x at mock_app.js:31:5
+2016-11-17 21:05 +08:00: Thu, 17 Nov 2016 13:05:02 GMT koa deprecated Support for generators will been removed in v3. See the documentation for examples of how to convert old middleware https://github.com/koajs/koa/tree/v2.x#old-signature-middleware-v1x at mock_app.js:32:5
+2016-11-17 21:05 +08:00: Thu, 17 Nov 2016 13:05:03 GMT koa deprecated Support for generators will been removed in v3. See the documentation for examples of how to convert old middleware https://github.com/koajs/koa/tree/v2.x#old-signature-middleware-v1x at mock_app.js:31:5
+2016-11-17 21:05 +08:00: Thu, 17 Nov 2016 13:05:03 GMT koa deprecated Support for generators will been removed in v3. See the documentation for examples of how to convert old middleware https://github.com/koajs/koa/tree/v2.x#old-signature-middleware-v1x at mock_app.js:32:5
+2016-11-17 21:05 +08:00: Thu, 17 Nov 2016 13:05:06 GMT koa deprecated Support for generators will been removed in v3. See the documentation for examples of how to convert old middleware https://github.com/koajs/koa/tree/v2.x#old-signature-middleware-v1x at mock_app.js:31:5
+2016-11-17 21:05 +08:00: Thu, 17 Nov 2016 13:05:06 GMT koa deprecated Support for generators will been removed in v3. See the documentation for examples of how to convert old middleware https://github.com/koajs/koa/tree/v2.x#old-signature-middleware-v1x at mock_app.js:32:5
+2016-11-17 21:05 +08:00: Thu, 17 Nov 2016 13:05:08 GMT koa deprecated Support for generators will been removed in v3. See the documentation for examples of how to convert old middleware https://github.com/koajs/koa/tree/v2.x#old-signature-middleware-v1x at mock_app.js:31:5
+2016-11-17 21:05 +08:00: Thu, 17 Nov 2016 13:05:08 GMT koa deprecated Support for generators will been removed in v3. See the documentation for examples of how to convert old middleware https://github.com/koajs/koa/tree/v2.x#old-signature-middleware-v1x at mock_app.js:32:5
+2016-11-17 21:05 +08:00: Thu, 17 Nov 2016 13:05:09 GMT koa deprecated Support for generators will been removed in v3. See the documentation for examples of how to convert old middleware https://github.com/koajs/koa/tree/v2.x#old-signature-middleware-v1x at mock_app.js:31:5
+2016-11-17 21:05 +08:00: Thu, 17 Nov 2016 13:05:09 GMT koa deprecated Support for generators will been removed in v3. See the documentation for examples of how to convert old middleware https://github.com/koajs/koa/tree/v2.x#old-signature-middleware-v1x at mock_app.js:32:5
+2016-11-17 21:05 +08:00: Thu, 17 Nov 2016 13:05:11 GMT koa deprecated Support for generators will been removed in v3. See the documentation for examples of how to convert old middleware https://github.com/koajs/koa/tree/v2.x#old-signature-middleware-v1x at mock_app.js:31:5
+2016-11-17 21:05 +08:00: Thu, 17 Nov 2016 13:05:11 GMT koa deprecated Support for generators will been removed in v3. See the documentation for examples of how to convert old middleware https://github.com/koajs/koa/tree/v2.x#old-signature-middleware-v1x at mock_app.js:32:5
+2016-11-17 21:05 +08:00: Thu, 17 Nov 2016 13:05:16 GMT koa deprecated Support for generators will been removed in v3. See the documentation for examples of how to convert old middleware https://github.com/koajs/koa/tree/v2.x#old-signature-middleware-v1x at mock_app.js:31:5
+2016-11-17 21:05 +08:00: Thu, 17 Nov 2016 13:05:16 GMT koa deprecated Support for generators will been removed in v3. See the documentation for examples of how to convert old middleware https://github.com/koajs/koa/tree/v2.x#old-signature-middleware-v1x at mock_app.js:32:5
+2016-11-17 21:05 +08:00: Thu, 17 Nov 2016 13:05:18 GMT koa deprecated Support for generators will been removed in v3. See the documentation for examples of how to convert old middleware https://github.com/koajs/koa/tree/v2.x#old-signature-middleware-v1x at mock_app.js:31:5
+2016-11-17 21:05 +08:00: Thu, 17 Nov 2016 13:05:18 GMT koa deprecated Support for generators will been removed in v3. See the documentation for examples of how to convert old middleware https://github.com/koajs/koa/tree/v2.x#old-signature-middleware-v1x at mock_app.js:32:5
+2016-11-17 21:05 +08:00: Thu, 17 Nov 2016 13:05:19 GMT koa deprecated Support for generators will been removed in v3. See the documentation for examples of how to convert old middleware https://github.com/koajs/koa/tree/v2.x#old-signature-middleware-v1x at mock_app.js:31:5
+2016-11-17 21:05 +08:00: Thu, 17 Nov 2016 13:05:19 GMT koa deprecated Support for generators will been removed in v3. See the documentation for examples of how to convert old middleware https://github.com/koajs/koa/tree/v2.x#old-signature-middleware-v1x at mock_app.js:32:5
+2016-11-17 21:05 +08:00: Thu, 17 Nov 2016 13:05:22 GMT koa deprecated Support for generators will been removed in v3. See the documentation for examples of how to convert old middleware https://github.com/koajs/koa/tree/v2.x#old-signature-middleware-v1x at mock_app.js:31:5
+2016-11-17 21:05 +08:00: Thu, 17 Nov 2016 13:05:22 GMT koa deprecated Support for generators will been removed in v3. See the documentation for examples of how to convert old middleware https://github.com/koajs/koa/tree/v2.x#old-signature-middleware-v1x at mock_app.js:32:5
+2016-11-17 21:05 +08:00: Thu, 17 Nov 2016 13:05:24 GMT koa deprecated Support for generators will been removed in v3. See the documentation for examples of how to convert old middleware https://github.com/koajs/koa/tree/v2.x#old-signature-middleware-v1x at mock_app.js:31:5
+2016-11-17 21:05 +08:00: Thu, 17 Nov 2016 13:05:24 GMT koa deprecated Support for generators will been removed in v3. See the documentation for examples of how to convert old middleware https://github.com/koajs/koa/tree/v2.x#old-signature-middleware-v1x at mock_app.js:32:5
+2016-11-17 21:05 +08:00: Thu, 17 Nov 2016 13:05:26 GMT koa deprecated Support for generators will been removed in v3. See the documentation for examples of how to convert old middleware https://github.com/koajs/koa/tree/v2.x#old-signature-middleware-v1x at mock_app.js:31:5
+2016-11-17 21:05 +08:00: Thu, 17 Nov 2016 13:05:26 GMT koa deprecated Support for generators will been removed in v3. See the documentation for examples of how to convert old middleware https://github.com/koajs/koa/tree/v2.x#old-signature-middleware-v1x at mock_app.js:32:5
+2016-11-17 21:05 +08:00: Thu, 17 Nov 2016 13:05:28 GMT koa deprecated Support for generators will been removed in v3. See the documentation for examples of how to convert old middleware https://github.com/koajs/koa/tree/v2.x#old-signature-middleware-v1x at mock_app.js:31:5
+2016-11-17 21:05 +08:00: Thu, 17 Nov 2016 13:05:28 GMT koa deprecated Support for generators will been removed in v3. See the documentation for examples of how to convert old middleware https://github.com/koajs/koa/tree/v2.x#old-signature-middleware-v1x at mock_app.js:32:5
+2016-11-17 21:05 +08:00: Thu, 17 Nov 2016 13:05:29 GMT koa deprecated Support for generators will been removed in v3. See the documentation for examples of how to convert old middleware https://github.com/koajs/koa/tree/v2.x#old-signature-middleware-v1x at mock_app.js:31:5
+2016-11-17 21:05 +08:00: Thu, 17 Nov 2016 13:05:29 GMT koa deprecated Support for generators will been removed in v3. See the documentation for examples of how to convert old middleware https://github.com/koajs/koa/tree/v2.x#old-signature-middleware-v1x at mock_app.js:32:5
+2016-11-17 21:05 +08:00: Thu, 17 Nov 2016 13:05:31 GMT koa deprecated Support for generators will been removed in v3. See the documentation for examples of how to convert old middleware https://github.com/koajs/koa/tree/v2.x#old-signature-middleware-v1x at mock_app.js:31:5
+2016-11-17 21:05 +08:00: Thu, 17 Nov 2016 13:05:31 GMT koa deprecated Support for generators will been removed in v3. See the documentation for examples of how to convert old middleware https://github.com/koajs/koa/tree/v2.x#old-signature-middleware-v1x at mock_app.js:32:5
+2016-11-17 21:05 +08:00: Thu, 17 Nov 2016 13:05:32 GMT koa deprecated Support for generators will been removed in v3. See the documentation for examples of how to convert old middleware https://github.com/koajs/koa/tree/v2.x#old-signature-middleware-v1x at mock_app.js:31:5
+2016-11-17 21:05 +08:00: Thu, 17 Nov 2016 13:05:32 GMT koa deprecated Support for generators will been removed in v3. See the documentation for examples of how to convert old middleware https://github.com/koajs/koa/tree/v2.x#old-signature-middleware-v1x at mock_app.js:32:5
+2016-11-17 21:05 +08:00: Thu, 17 Nov 2016 13:05:34 GMT koa deprecated Support for generators will been removed in v3. See the documentation for examples of how to convert old middleware https://github.com/koajs/koa/tree/v2.x#old-signature-middleware-v1x at mock_app.js:31:5
+2016-11-17 21:05 +08:00: Thu, 17 Nov 2016 13:05:34 GMT koa deprecated Support for generators will been removed in v3. See the documentation for examples of how to convert old middleware https://github.com/koajs/koa/tree/v2.x#old-signature-middleware-v1x at mock_app.js:32:5
+2016-11-17 21:05 +08:00: Thu, 17 Nov 2016 13:05:36 GMT koa deprecated Support for generators will been removed in v3. See the documentation for examples of how to convert old middleware https://github.com/koajs/koa/tree/v2.x#old-signature-middleware-v1x at mock_app.js:31:5
+2016-11-17 21:05 +08:00: Thu, 17 Nov 2016 13:05:36 GMT koa deprecated Support for generators will been removed in v3. See the documentation for examples of how to convert old middleware https://github.com/koajs/koa/tree/v2.x#old-signature-middleware-v1x at mock_app.js:32:5
+2016-11-17 21:05 +08:00: Thu, 17 Nov 2016 13:05:37 GMT koa deprecated Support for generators will been removed in v3. See the documentation for examples of how to convert old middleware https://github.com/koajs/koa/tree/v2.x#old-signature-middleware-v1x at mock_app.js:31:5
+2016-11-17 21:05 +08:00: Thu, 17 Nov 2016 13:05:37 GMT koa deprecated Support for generators will been removed in v3. See the documentation for examples of how to convert old middleware https://github.com/koajs/koa/tree/v2.x#old-signature-middleware-v1x at mock_app.js:32:5
+2016-11-17 21:05 +08:00: Thu, 17 Nov 2016 13:05:39 GMT koa deprecated Support for generators will been removed in v3. See the documentation for examples of how to convert old middleware https://github.com/koajs/koa/tree/v2.x#old-signature-middleware-v1x at mock_app.js:31:5
+2016-11-17 21:05 +08:00: Thu, 17 Nov 2016 13:05:39 GMT koa deprecated Support for generators will been removed in v3. See the documentation for examples of how to convert old middleware https://github.com/koajs/koa/tree/v2.x#old-signature-middleware-v1x at mock_app.js:32:5
+2016-11-17 21:05 +08:00: Thu, 17 Nov 2016 13:05:41 GMT koa deprecated Support for generators will been removed in v3. See the documentation for examples of how to convert old middleware https://github.com/koajs/koa/tree/v2.x#old-signature-middleware-v1x at mock_app.js:31:5
+2016-11-17 21:05 +08:00: Thu, 17 Nov 2016 13:05:41 GMT koa deprecated Support for generators will been removed in v3. See the documentation for examples of how to convert old middleware https://github.com/koajs/koa/tree/v2.x#old-signature-middleware-v1x at mock_app.js:32:5
+2016-11-17 21:05 +08:00: Thu, 17 Nov 2016 13:05:44 GMT koa deprecated Support for generators will been removed in v3. See the documentation for examples of how to convert old middleware https://github.com/koajs/koa/tree/v2.x#old-signature-middleware-v1x at mock_app.js:31:5
+2016-11-17 21:05 +08:00: Thu, 17 Nov 2016 13:05:44 GMT koa deprecated Support for generators will been removed in v3. See the documentation for examples of how to convert old middleware https://github.com/koajs/koa/tree/v2.x#old-signature-middleware-v1x at mock_app.js:32:5
+2016-11-17 21:05 +08:00: Thu, 17 Nov 2016 13:05:48 GMT koa deprecated Support for generators will been removed in v3. See the documentation for examples of how to convert old middleware https://github.com/koajs/koa/tree/v2.x#old-signature-middleware-v1x at mock_app.js:31:5
+2016-11-17 21:05 +08:00: Thu, 17 Nov 2016 13:05:48 GMT koa deprecated Support for generators will been removed in v3. See the documentation for examples of how to convert old middleware https://github.com/koajs/koa/tree/v2.x#old-signature-middleware-v1x at mock_app.js:32:5
+2016-11-17 21:05 +08:00: Thu, 17 Nov 2016 13:05:49 GMT koa deprecated Support for generators will been removed in v3. See the documentation for examples of how to convert old middleware https://github.com/koajs/koa/tree/v2.x#old-signature-middleware-v1x at mock_app.js:31:5
+2016-11-17 21:05 +08:00: Thu, 17 Nov 2016 13:05:49 GMT koa deprecated Support for generators will been removed in v3. See the documentation for examples of how to convert old middleware https://github.com/koajs/koa/tree/v2.x#old-signature-middleware-v1x at mock_app.js:32:5
+2016-11-17 21:05 +08:00: Thu, 17 Nov 2016 13:05:52 GMT koa deprecated Support for generators will been removed in v3. See the documentation for examples of how to convert old middleware https://github.com/koajs/koa/tree/v2.x#old-signature-middleware-v1x at mock_app.js:31:5
+2016-11-17 21:05 +08:00: Thu, 17 Nov 2016 13:05:52 GMT koa deprecated Support for generators will been removed in v3. See the documentation for examples of how to convert old middleware https://github.com/koajs/koa/tree/v2.x#old-signature-middleware-v1x at mock_app.js:32:5
+2016-11-17 21:05 +08:00: Thu, 17 Nov 2016 13:05:54 GMT koa deprecated Support for generators will been removed in v3. See the documentation for examples of how to convert old middleware https://github.com/koajs/koa/tree/v2.x#old-signature-middleware-v1x at mock_app.js:31:5
+2016-11-17 21:05 +08:00: Thu, 17 Nov 2016 13:05:54 GMT koa deprecated Support for generators will been removed in v3. See the documentation for examples of how to convert old middleware https://github.com/koajs/koa/tree/v2.x#old-signature-middleware-v1x at mock_app.js:32:5
+2016-11-17 21:05 +08:00: Thu, 17 Nov 2016 13:05:55 GMT koa deprecated Support for generators will been removed in v3. See the documentation for examples of how to convert old middleware https://github.com/koajs/koa/tree/v2.x#old-signature-middleware-v1x at mock_app.js:31:5
+2016-11-17 21:05 +08:00: Thu, 17 Nov 2016 13:05:55 GMT koa deprecated Support for generators will been removed in v3. See the documentation for examples of how to convert old middleware https://github.com/koajs/koa/tree/v2.x#old-signature-middleware-v1x at mock_app.js:32:5
+2016-11-17 21:05 +08:00: Thu, 17 Nov 2016 13:05:57 GMT koa deprecated Support for generators will been removed in v3. See the documentation for examples of how to convert old middleware https://github.com/koajs/koa/tree/v2.x#old-signature-middleware-v1x at mock_app.js:31:5
+2016-11-17 21:05 +08:00: Thu, 17 Nov 2016 13:05:57 GMT koa deprecated Support for generators will been removed in v3. See the documentation for examples of how to convert old middleware https://github.com/koajs/koa/tree/v2.x#old-signature-middleware-v1x at mock_app.js:32:5
+2016-11-17 21:05 +08:00: Thu, 17 Nov 2016 13:05:59 GMT koa deprecated Support for generators will been removed in v3. See the documentation for examples of how to convert old middleware https://github.com/koajs/koa/tree/v2.x#old-signature-middleware-v1x at mock_app.js:31:5
+2016-11-17 21:05 +08:00: Thu, 17 Nov 2016 13:05:59 GMT koa deprecated Support for generators will been removed in v3. See the documentation for examples of how to convert old middleware https://github.com/koajs/koa/tree/v2.x#old-signature-middleware-v1x at mock_app.js:32:5
+2016-11-17 21:06 +08:00: Thu, 17 Nov 2016 13:06:01 GMT koa deprecated Support for generators will been removed in v3. See the documentation for examples of how to convert old middleware https://github.com/koajs/koa/tree/v2.x#old-signature-middleware-v1x at mock_app.js:31:5
+2016-11-17 21:06 +08:00: Thu, 17 Nov 2016 13:06:01 GMT koa deprecated Support for generators will been removed in v3. See the documentation for examples of how to convert old middleware https://github.com/koajs/koa/tree/v2.x#old-signature-middleware-v1x at mock_app.js:32:5
+2016-11-17 21:06 +08:00: Thu, 17 Nov 2016 13:06:02 GMT koa deprecated Support for generators will been removed in v3. See the documentation for examples of how to convert old middleware https://github.com/koajs/koa/tree/v2.x#old-signature-middleware-v1x at mock_app.js:31:5
+2016-11-17 21:06 +08:00: Thu, 17 Nov 2016 13:06:02 GMT koa deprecated Support for generators will been removed in v3. See the documentation for examples of how to convert old middleware https://github.com/koajs/koa/tree/v2.x#old-signature-middleware-v1x at mock_app.js:32:5
+2016-11-17 21:06 +08:00: Thu, 17 Nov 2016 13:06:04 GMT koa deprecated Support for generators will been removed in v3. See the documentation for examples of how to convert old middleware https://github.com/koajs/koa/tree/v2.x#old-signature-middleware-v1x at mock_app.js:31:5
+2016-11-17 21:06 +08:00: Thu, 17 Nov 2016 13:06:04 GMT koa deprecated Support for generators will been removed in v3. See the documentation for examples of how to convert old middleware https://github.com/koajs/koa/tree/v2.x#old-signature-middleware-v1x at mock_app.js:32:5
+2016-11-17 21:06 +08:00: Thu, 17 Nov 2016 13:06:06 GMT koa deprecated Support for generators will been removed in v3. See the documentation for examples of how to convert old middleware https://github.com/koajs/koa/tree/v2.x#old-signature-middleware-v1x at mock_app.js:31:5
+2016-11-17 21:06 +08:00: Thu, 17 Nov 2016 13:06:06 GMT koa deprecated Support for generators will been removed in v3. See the documentation for examples of how to convert old middleware https://github.com/koajs/koa/tree/v2.x#old-signature-middleware-v1x at mock_app.js:32:5
+2016-11-17 21:06 +08:00: Thu, 17 Nov 2016 13:06:08 GMT koa deprecated Support for generators will been removed in v3. See the documentation for examples of how to convert old middleware https://github.com/koajs/koa/tree/v2.x#old-signature-middleware-v1x at mock_app.js:31:5
+2016-11-17 21:06 +08:00: Thu, 17 Nov 2016 13:06:08 GMT koa deprecated Support for generators will been removed in v3. See the documentation for examples of how to convert old middleware https://github.com/koajs/koa/tree/v2.x#old-signature-middleware-v1x at mock_app.js:32:5
+2016-11-17 21:06 +08:00: Thu, 17 Nov 2016 13:06:10 GMT koa deprecated Support for generators will been removed in v3. See the documentation for examples of how to convert old middleware https://github.com/koajs/koa/tree/v2.x#old-signature-middleware-v1x at mock_app.js:31:5
+2016-11-17 21:06 +08:00: Thu, 17 Nov 2016 13:06:10 GMT koa deprecated Support for generators will been removed in v3. See the documentation for examples of how to convert old middleware https://github.com/koajs/koa/tree/v2.x#old-signature-middleware-v1x at mock_app.js:32:5
+2016-11-17 21:06 +08:00: Thu, 17 Nov 2016 13:06:15 GMT koa deprecated Support for generators will been removed in v3. See the documentation for examples of how to convert old middleware https://github.com/koajs/koa/tree/v2.x#old-signature-middleware-v1x at mock_app.js:31:5
+2016-11-17 21:06 +08:00: Thu, 17 Nov 2016 13:06:15 GMT koa deprecated Support for generators will been removed in v3. See the documentation for examples of how to convert old middleware https://github.com/koajs/koa/tree/v2.x#old-signature-middleware-v1x at mock_app.js:32:5
+2016-11-17 21:06 +08:00: Thu, 17 Nov 2016 13:06:16 GMT koa deprecated Support for generators will been removed in v3. See the documentation for examples of how to convert old middleware https://github.com/koajs/koa/tree/v2.x#old-signature-middleware-v1x at mock_app.js:31:5
+2016-11-17 21:06 +08:00: Thu, 17 Nov 2016 13:06:16 GMT koa deprecated Support for generators will been removed in v3. See the documentation for examples of how to convert old middleware https://github.com/koajs/koa/tree/v2.x#old-signature-middleware-v1x at mock_app.js:32:5
+2016-11-17 21:06 +08:00: Thu, 17 Nov 2016 13:06:18 GMT koa deprecated Support for generators will been removed in v3. See the documentation for examples of how to convert old middleware https://github.com/koajs/koa/tree/v2.x#old-signature-middleware-v1x at mock_app.js:31:5
+2016-11-17 21:06 +08:00: Thu, 17 Nov 2016 13:06:18 GMT koa deprecated Support for generators will been removed in v3. See the documentation for examples of how to convert old middleware https://github.com/koajs/koa/tree/v2.x#old-signature-middleware-v1x at mock_app.js:32:5
+2016-11-17 21:06 +08:00: Thu, 17 Nov 2016 13:06:20 GMT koa deprecated Support for generators will been removed in v3. See the documentation for examples of how to convert old middleware https://github.com/koajs/koa/tree/v2.x#old-signature-middleware-v1x at mock_app.js:31:5
+2016-11-17 21:06 +08:00: Thu, 17 Nov 2016 13:06:20 GMT koa deprecated Support for generators will been removed in v3. See the documentation for examples of how to convert old middleware https://github.com/koajs/koa/tree/v2.x#old-signature-middleware-v1x at mock_app.js:32:5
+2016-11-17 21:06 +08:00: Thu, 17 Nov 2016 13:06:22 GMT koa deprecated Support for generators will been removed in v3. See the documentation for examples of how to convert old middleware https://github.com/koajs/koa/tree/v2.x#old-signature-middleware-v1x at mock_app.js:31:5
+2016-11-17 21:06 +08:00: Thu, 17 Nov 2016 13:06:22 GMT koa deprecated Support for generators will been removed in v3. See the documentation for examples of how to convert old middleware https://github.com/koajs/koa/tree/v2.x#old-signature-middleware-v1x at mock_app.js:32:5
+2016-11-17 21:06 +08:00: Thu, 17 Nov 2016 13:06:23 GMT koa deprecated Support for generators will been removed in v3. See the documentation for examples of how to convert old middleware https://github.com/koajs/koa/tree/v2.x#old-signature-middleware-v1x at mock_app.js:31:5
+2016-11-17 21:06 +08:00: Thu, 17 Nov 2016 13:06:23 GMT koa deprecated Support for generators will been removed in v3. See the documentation for examples of how to convert old middleware https://github.com/koajs/koa/tree/v2.x#old-signature-middleware-v1x at mock_app.js:32:5
+2016-11-17 21:06 +08:00: Thu, 17 Nov 2016 13:06:24 GMT koa deprecated Support for generators will been removed in v3. See the documentation for examples of how to convert old middleware https://github.com/koajs/koa/tree/v2.x#old-signature-middleware-v1x at mock_app.js:31:5
+2016-11-17 21:06 +08:00: Thu, 17 Nov 2016 13:06:24 GMT koa deprecated Support for generators will been removed in v3. See the documentation for examples of how to convert old middleware https://github.com/koajs/koa/tree/v2.x#old-signature-middleware-v1x at mock_app.js:32:5
+2016-11-17 21:06 +08:00: Thu, 17 Nov 2016 13:06:26 GMT koa deprecated Support for generators will been removed in v3. See the documentation for examples of how to convert old middleware https://github.com/koajs/koa/tree/v2.x#old-signature-middleware-v1x at mock_app.js:31:5
+2016-11-17 21:06 +08:00: Thu, 17 Nov 2016 13:06:26 GMT koa deprecated Support for generators will been removed in v3. See the documentation for examples of how to convert old middleware https://github.com/koajs/koa/tree/v2.x#old-signature-middleware-v1x at mock_app.js:32:5
+2016-11-17 21:08 +08:00: DisconnectedError: Ran out of retries trying to reconnect to "localhost:27017". Try setting `server.reconnectTries` and `server.reconnectInterval` to something higher.
+    at MongooseError.DisconnectedError (/Users/raimonfuns/项目代码/mock/mock_server/node_modules/mongoose/lib/error/disconnected.js:21:11)
+    at Server.<anonymous> (/Users/raimonfuns/项目代码/mock/mock_server/node_modules/mongoose/lib/drivers/node-mongodb-native/connection.js:64:31)
+    at emitOne (events.js:101:20)
+    at Server.emit (events.js:188:7)
+    at Pool.<anonymous> (/Users/raimonfuns/项目代码/mock/mock_server/node_modules/mongodb-core/lib/topologies/server.js:304:16)
+    at emitOne (events.js:96:13)
+    at Pool.emit (events.js:188:7)
+    at Connection.<anonymous> (/Users/raimonfuns/项目代码/mock/mock_server/node_modules/mongodb-core/lib/connection/pool.js:306:16)
+    at emitTwo (events.js:106:13)
+    at Connection.emit (events.js:191:7)
+    at Socket.<anonymous> (/Users/raimonfuns/项目代码/mock/mock_server/node_modules/mongodb-core/lib/connection/connection.js:165:49)
+    at Socket.g (events.js:291:16)
+    at emitOne (events.js:96:13)
+    at Socket.emit (events.js:188:7)
+    at emitErrorNT (net.js:1276:8)
+    at _combinedTickCallback (internal/process/next_tick.js:74:11)
+    at process._tickDomainCallback (internal/process/next_tick.js:122:9)
+2016-11-17 21:08 +08:00: Thu, 17 Nov 2016 13:08:47 GMT koa deprecated Support for generators will been removed in v3. See the documentation for examples of how to convert old middleware https://github.com/koajs/koa/tree/v2.x#old-signature-middleware-v1x at mock_app.js:31:5
+2016-11-17 21:08 +08:00: Thu, 17 Nov 2016 13:08:47 GMT koa deprecated Support for generators will been removed in v3. See the documentation for examples of how to convert old middleware https://github.com/koajs/koa/tree/v2.x#old-signature-middleware-v1x at mock_app.js:32:5
+2016-11-17 21:08 +08:00: MongoError: failed to connect to server [localhost:27017] on first connect
+    at Pool.<anonymous> (/Users/raimonfuns/项目代码/mock/mock_server/node_modules/mongodb-core/lib/topologies/server.js:313:35)
+    at emitOne (events.js:96:13)
+    at Pool.emit (events.js:188:7)
+    at Connection.<anonymous> (/Users/raimonfuns/项目代码/mock/mock_server/node_modules/mongodb-core/lib/connection/pool.js:271:12)
+    at Connection.g (events.js:291:16)
+    at emitTwo (events.js:106:13)
+    at Connection.emit (events.js:191:7)
+    at Socket.<anonymous> (/Users/raimonfuns/项目代码/mock/mock_server/node_modules/mongodb-core/lib/connection/connection.js:165:49)
+    at Socket.g (events.js:291:16)
+    at emitOne (events.js:96:13)
+    at Socket.emit (events.js:188:7)
+    at emitErrorNT (net.js:1276:8)
+    at _combinedTickCallback (internal/process/next_tick.js:74:11)
+    at process._tickDomainCallback (internal/process/next_tick.js:122:9)
+2016-11-17 21:08 +08:00: Thu, 17 Nov 2016 13:08:48 GMT koa deprecated Support for generators will been removed in v3. See the documentation for examples of how to convert old middleware https://github.com/koajs/koa/tree/v2.x#old-signature-middleware-v1x at mock_app.js:31:5
+2016-11-17 21:08 +08:00: Thu, 17 Nov 2016 13:08:48 GMT koa deprecated Support for generators will been removed in v3. See the documentation for examples of how to convert old middleware https://github.com/koajs/koa/tree/v2.x#old-signature-middleware-v1x at mock_app.js:32:5
+2016-11-17 21:08 +08:00: MongoError: failed to connect to server [localhost:27017] on first connect
+    at Pool.<anonymous> (/Users/raimonfuns/项目代码/mock/mock_server/node_modules/mongodb-core/lib/topologies/server.js:313:35)
+    at emitOne (events.js:96:13)
+    at Pool.emit (events.js:188:7)
+    at Connection.<anonymous> (/Users/raimonfuns/项目代码/mock/mock_server/node_modules/mongodb-core/lib/connection/pool.js:271:12)
+    at Connection.g (events.js:291:16)
+    at emitTwo (events.js:106:13)
+    at Connection.emit (events.js:191:7)
+    at Socket.<anonymous> (/Users/raimonfuns/项目代码/mock/mock_server/node_modules/mongodb-core/lib/connection/connection.js:165:49)
+    at Socket.g (events.js:291:16)
+    at emitOne (events.js:96:13)
+    at Socket.emit (events.js:188:7)
+    at emitErrorNT (net.js:1276:8)
+    at _combinedTickCallback (internal/process/next_tick.js:74:11)
+    at process._tickDomainCallback (internal/process/next_tick.js:122:9)
+2016-11-17 21:08 +08:00: Thu, 17 Nov 2016 13:08:50 GMT koa deprecated Support for generators will been removed in v3. See the documentation for examples of how to convert old middleware https://github.com/koajs/koa/tree/v2.x#old-signature-middleware-v1x at mock_app.js:31:5
+2016-11-17 21:08 +08:00: Thu, 17 Nov 2016 13:08:50 GMT koa deprecated Support for generators will been removed in v3. See the documentation for examples of how to convert old middleware https://github.com/koajs/koa/tree/v2.x#old-signature-middleware-v1x at mock_app.js:32:5
+2016-11-17 21:08 +08:00: MongoError: failed to connect to server [localhost:27017] on first connect
+    at Pool.<anonymous> (/Users/raimonfuns/项目代码/mock/mock_server/node_modules/mongodb-core/lib/topologies/server.js:313:35)
+    at emitOne (events.js:96:13)
+    at Pool.emit (events.js:188:7)
+    at Connection.<anonymous> (/Users/raimonfuns/项目代码/mock/mock_server/node_modules/mongodb-core/lib/connection/pool.js:271:12)
+    at Connection.g (events.js:291:16)
+    at emitTwo (events.js:106:13)
+    at Connection.emit (events.js:191:7)
+    at Socket.<anonymous> (/Users/raimonfuns/项目代码/mock/mock_server/node_modules/mongodb-core/lib/connection/connection.js:165:49)
+    at Socket.g (events.js:291:16)
+    at emitOne (events.js:96:13)
+    at Socket.emit (events.js:188:7)
+    at emitErrorNT (net.js:1276:8)
+    at _combinedTickCallback (internal/process/next_tick.js:74:11)
+    at process._tickDomainCallback (internal/process/next_tick.js:122:9)
+2016-11-17 21:08 +08:00: Thu, 17 Nov 2016 13:08:51 GMT koa deprecated Support for generators will been removed in v3. See the documentation for examples of how to convert old middleware https://github.com/koajs/koa/tree/v2.x#old-signature-middleware-v1x at mock_app.js:31:5
+2016-11-17 21:08 +08:00: Thu, 17 Nov 2016 13:08:51 GMT koa deprecated Support for generators will been removed in v3. See the documentation for examples of how to convert old middleware https://github.com/koajs/koa/tree/v2.x#old-signature-middleware-v1x at mock_app.js:32:5
+2016-11-17 21:08 +08:00: MongoError: failed to connect to server [localhost:27017] on first connect
+    at Pool.<anonymous> (/Users/raimonfuns/项目代码/mock/mock_server/node_modules/mongodb-core/lib/topologies/server.js:313:35)
+    at emitOne (events.js:96:13)
+    at Pool.emit (events.js:188:7)
+    at Connection.<anonymous> (/Users/raimonfuns/项目代码/mock/mock_server/node_modules/mongodb-core/lib/connection/pool.js:271:12)
+    at Connection.g (events.js:291:16)
+    at emitTwo (events.js:106:13)
+    at Connection.emit (events.js:191:7)
+    at Socket.<anonymous> (/Users/raimonfuns/项目代码/mock/mock_server/node_modules/mongodb-core/lib/connection/connection.js:165:49)
+    at Socket.g (events.js:291:16)
+    at emitOne (events.js:96:13)
+    at Socket.emit (events.js:188:7)
+    at emitErrorNT (net.js:1276:8)
+    at _combinedTickCallback (internal/process/next_tick.js:74:11)
+    at process._tickDomainCallback (internal/process/next_tick.js:122:9)
+2016-11-17 21:08 +08:00: Thu, 17 Nov 2016 13:08:53 GMT koa deprecated Support for generators will been removed in v3. See the documentation for examples of how to convert old middleware https://github.com/koajs/koa/tree/v2.x#old-signature-middleware-v1x at mock_app.js:31:5
+2016-11-17 21:08 +08:00: Thu, 17 Nov 2016 13:08:53 GMT koa deprecated Support for generators will been removed in v3. See the documentation for examples of how to convert old middleware https://github.com/koajs/koa/tree/v2.x#old-signature-middleware-v1x at mock_app.js:32:5
+2016-11-17 21:08 +08:00: MongoError: failed to connect to server [localhost:27017] on first connect
+    at Pool.<anonymous> (/Users/raimonfuns/项目代码/mock/mock_server/node_modules/mongodb-core/lib/topologies/server.js:313:35)
+    at emitOne (events.js:96:13)
+    at Pool.emit (events.js:188:7)
+    at Connection.<anonymous> (/Users/raimonfuns/项目代码/mock/mock_server/node_modules/mongodb-core/lib/connection/pool.js:271:12)
+    at Connection.g (events.js:291:16)
+    at emitTwo (events.js:106:13)
+    at Connection.emit (events.js:191:7)
+    at Socket.<anonymous> (/Users/raimonfuns/项目代码/mock/mock_server/node_modules/mongodb-core/lib/connection/connection.js:165:49)
+    at Socket.g (events.js:291:16)
+    at emitOne (events.js:96:13)
+    at Socket.emit (events.js:188:7)
+    at emitErrorNT (net.js:1276:8)
+    at _combinedTickCallback (internal/process/next_tick.js:74:11)
+    at process._tickDomainCallback (internal/process/next_tick.js:122:9)
+2016-11-17 21:08 +08:00: Thu, 17 Nov 2016 13:08:54 GMT koa deprecated Support for generators will been removed in v3. See the documentation for examples of how to convert old middleware https://github.com/koajs/koa/tree/v2.x#old-signature-middleware-v1x at mock_app.js:31:5
+2016-11-17 21:08 +08:00: Thu, 17 Nov 2016 13:08:54 GMT koa deprecated Support for generators will been removed in v3. See the documentation for examples of how to convert old middleware https://github.com/koajs/koa/tree/v2.x#old-signature-middleware-v1x at mock_app.js:32:5
+2016-11-17 21:08 +08:00: MongoError: failed to connect to server [localhost:27017] on first connect
+    at Pool.<anonymous> (/Users/raimonfuns/项目代码/mock/mock_server/node_modules/mongodb-core/lib/topologies/server.js:313:35)
+    at emitOne (events.js:96:13)
+    at Pool.emit (events.js:188:7)
+    at Connection.<anonymous> (/Users/raimonfuns/项目代码/mock/mock_server/node_modules/mongodb-core/lib/connection/pool.js:271:12)
+    at Connection.g (events.js:291:16)
+    at emitTwo (events.js:106:13)
+    at Connection.emit (events.js:191:7)
+    at Socket.<anonymous> (/Users/raimonfuns/项目代码/mock/mock_server/node_modules/mongodb-core/lib/connection/connection.js:165:49)
+    at Socket.g (events.js:291:16)
+    at emitOne (events.js:96:13)
+    at Socket.emit (events.js:188:7)
+    at emitErrorNT (net.js:1276:8)
+    at _combinedTickCallback (internal/process/next_tick.js:74:11)
+    at process._tickDomainCallback (internal/process/next_tick.js:122:9)
+2016-11-17 21:08 +08:00: Thu, 17 Nov 2016 13:08:56 GMT koa deprecated Support for generators will been removed in v3. See the documentation for examples of how to convert old middleware https://github.com/koajs/koa/tree/v2.x#old-signature-middleware-v1x at mock_app.js:31:5
+2016-11-17 21:08 +08:00: Thu, 17 Nov 2016 13:08:56 GMT koa deprecated Support for generators will been removed in v3. See the documentation for examples of how to convert old middleware https://github.com/koajs/koa/tree/v2.x#old-signature-middleware-v1x at mock_app.js:32:5
+2016-11-17 21:08 +08:00: MongoError: failed to connect to server [localhost:27017] on first connect
+    at Pool.<anonymous> (/Users/raimonfuns/项目代码/mock/mock_server/node_modules/mongodb-core/lib/topologies/server.js:313:35)
+    at emitOne (events.js:96:13)
+    at Pool.emit (events.js:188:7)
+    at Connection.<anonymous> (/Users/raimonfuns/项目代码/mock/mock_server/node_modules/mongodb-core/lib/connection/pool.js:271:12)
+    at Connection.g (events.js:291:16)
+    at emitTwo (events.js:106:13)
+    at Connection.emit (events.js:191:7)
+    at Socket.<anonymous> (/Users/raimonfuns/项目代码/mock/mock_server/node_modules/mongodb-core/lib/connection/connection.js:165:49)
+    at Socket.g (events.js:291:16)
+    at emitOne (events.js:96:13)
+    at Socket.emit (events.js:188:7)
+    at emitErrorNT (net.js:1276:8)
+    at _combinedTickCallback (internal/process/next_tick.js:74:11)
+    at process._tickDomainCallback (internal/process/next_tick.js:122:9)
+2016-11-17 21:08 +08:00: Thu, 17 Nov 2016 13:08:57 GMT koa deprecated Support for generators will been removed in v3. See the documentation for examples of how to convert old middleware https://github.com/koajs/koa/tree/v2.x#old-signature-middleware-v1x at mock_app.js:31:5
+2016-11-17 21:08 +08:00: Thu, 17 Nov 2016 13:08:57 GMT koa deprecated Support for generators will been removed in v3. See the documentation for examples of how to convert old middleware https://github.com/koajs/koa/tree/v2.x#old-signature-middleware-v1x at mock_app.js:32:5
+2016-11-17 21:08 +08:00: MongoError: failed to connect to server [localhost:27017] on first connect
+    at Pool.<anonymous> (/Users/raimonfuns/项目代码/mock/mock_server/node_modules/mongodb-core/lib/topologies/server.js:313:35)
+    at emitOne (events.js:96:13)
+    at Pool.emit (events.js:188:7)
+    at Connection.<anonymous> (/Users/raimonfuns/项目代码/mock/mock_server/node_modules/mongodb-core/lib/connection/pool.js:271:12)
+    at Connection.g (events.js:291:16)
+    at emitTwo (events.js:106:13)
+    at Connection.emit (events.js:191:7)
+    at Socket.<anonymous> (/Users/raimonfuns/项目代码/mock/mock_server/node_modules/mongodb-core/lib/connection/connection.js:165:49)
+    at Socket.g (events.js:291:16)
+    at emitOne (events.js:96:13)
+    at Socket.emit (events.js:188:7)
+    at emitErrorNT (net.js:1276:8)
+    at _combinedTickCallback (internal/process/next_tick.js:74:11)
+    at process._tickDomainCallback (internal/process/next_tick.js:122:9)
+2016-11-17 21:08 +08:00: Thu, 17 Nov 2016 13:08:59 GMT koa deprecated Support for generators will been removed in v3. See the documentation for examples of how to convert old middleware https://github.com/koajs/koa/tree/v2.x#old-signature-middleware-v1x at mock_app.js:31:5
+2016-11-17 21:08 +08:00: Thu, 17 Nov 2016 13:08:59 GMT koa deprecated Support for generators will been removed in v3. See the documentation for examples of how to convert old middleware https://github.com/koajs/koa/tree/v2.x#old-signature-middleware-v1x at mock_app.js:32:5
+2016-11-17 21:08 +08:00: MongoError: failed to connect to server [localhost:27017] on first connect
+    at Pool.<anonymous> (/Users/raimonfuns/项目代码/mock/mock_server/node_modules/mongodb-core/lib/topologies/server.js:313:35)
+    at emitOne (events.js:96:13)
+    at Pool.emit (events.js:188:7)
+    at Connection.<anonymous> (/Users/raimonfuns/项目代码/mock/mock_server/node_modules/mongodb-core/lib/connection/pool.js:271:12)
+    at Connection.g (events.js:291:16)
+    at emitTwo (events.js:106:13)
+    at Connection.emit (events.js:191:7)
+    at Socket.<anonymous> (/Users/raimonfuns/项目代码/mock/mock_server/node_modules/mongodb-core/lib/connection/connection.js:165:49)
+    at Socket.g (events.js:291:16)
+    at emitOne (events.js:96:13)
+    at Socket.emit (events.js:188:7)
+    at emitErrorNT (net.js:1276:8)
+    at _combinedTickCallback (internal/process/next_tick.js:74:11)
+    at process._tickDomainCallback (internal/process/next_tick.js:122:9)
+2016-11-17 21:09 +08:00: Thu, 17 Nov 2016 13:09:00 GMT koa deprecated Support for generators will been removed in v3. See the documentation for examples of how to convert old middleware https://github.com/koajs/koa/tree/v2.x#old-signature-middleware-v1x at mock_app.js:31:5
+2016-11-17 21:09 +08:00: Thu, 17 Nov 2016 13:09:00 GMT koa deprecated Support for generators will been removed in v3. See the documentation for examples of how to convert old middleware https://github.com/koajs/koa/tree/v2.x#old-signature-middleware-v1x at mock_app.js:32:5
+2016-11-17 21:09 +08:00: MongoError: failed to connect to server [localhost:27017] on first connect
+    at Pool.<anonymous> (/Users/raimonfuns/项目代码/mock/mock_server/node_modules/mongodb-core/lib/topologies/server.js:313:35)
+    at emitOne (events.js:96:13)
+    at Pool.emit (events.js:188:7)
+    at Connection.<anonymous> (/Users/raimonfuns/项目代码/mock/mock_server/node_modules/mongodb-core/lib/connection/pool.js:271:12)
+    at Connection.g (events.js:291:16)
+    at emitTwo (events.js:106:13)
+    at Connection.emit (events.js:191:7)
+    at Socket.<anonymous> (/Users/raimonfuns/项目代码/mock/mock_server/node_modules/mongodb-core/lib/connection/connection.js:165:49)
+    at Socket.g (events.js:291:16)
+    at emitOne (events.js:96:13)
+    at Socket.emit (events.js:188:7)
+    at emitErrorNT (net.js:1276:8)
+    at _combinedTickCallback (internal/process/next_tick.js:74:11)
+    at process._tickDomainCallback (internal/process/next_tick.js:122:9)
+2016-11-17 21:09 +08:00: Thu, 17 Nov 2016 13:09:02 GMT koa deprecated Support for generators will been removed in v3. See the documentation for examples of how to convert old middleware https://github.com/koajs/koa/tree/v2.x#old-signature-middleware-v1x at mock_app.js:31:5
+2016-11-17 21:09 +08:00: Thu, 17 Nov 2016 13:09:02 GMT koa deprecated Support for generators will been removed in v3. See the documentation for examples of how to convert old middleware https://github.com/koajs/koa/tree/v2.x#old-signature-middleware-v1x at mock_app.js:32:5
+2016-11-17 21:09 +08:00: MongoError: failed to connect to server [localhost:27017] on first connect
+    at Pool.<anonymous> (/Users/raimonfuns/项目代码/mock/mock_server/node_modules/mongodb-core/lib/topologies/server.js:313:35)
+    at emitOne (events.js:96:13)
+    at Pool.emit (events.js:188:7)
+    at Connection.<anonymous> (/Users/raimonfuns/项目代码/mock/mock_server/node_modules/mongodb-core/lib/connection/pool.js:271:12)
+    at Connection.g (events.js:291:16)
+    at emitTwo (events.js:106:13)
+    at Connection.emit (events.js:191:7)
+    at Socket.<anonymous> (/Users/raimonfuns/项目代码/mock/mock_server/node_modules/mongodb-core/lib/connection/connection.js:165:49)
+    at Socket.g (events.js:291:16)
+    at emitOne (events.js:96:13)
+    at Socket.emit (events.js:188:7)
+    at emitErrorNT (net.js:1276:8)
+    at _combinedTickCallback (internal/process/next_tick.js:74:11)
+    at process._tickDomainCallback (internal/process/next_tick.js:122:9)
+2016-11-17 21:09 +08:00: Thu, 17 Nov 2016 13:09:03 GMT koa deprecated Support for generators will been removed in v3. See the documentation for examples of how to convert old middleware https://github.com/koajs/koa/tree/v2.x#old-signature-middleware-v1x at mock_app.js:31:5
+2016-11-17 21:09 +08:00: Thu, 17 Nov 2016 13:09:03 GMT koa deprecated Support for generators will been removed in v3. See the documentation for examples of how to convert old middleware https://github.com/koajs/koa/tree/v2.x#old-signature-middleware-v1x at mock_app.js:32:5
+2016-11-17 21:09 +08:00: MongoError: failed to connect to server [localhost:27017] on first connect
+    at Pool.<anonymous> (/Users/raimonfuns/项目代码/mock/mock_server/node_modules/mongodb-core/lib/topologies/server.js:313:35)
+    at emitOne (events.js:96:13)
+    at Pool.emit (events.js:188:7)
+    at Connection.<anonymous> (/Users/raimonfuns/项目代码/mock/mock_server/node_modules/mongodb-core/lib/connection/pool.js:271:12)
+    at Connection.g (events.js:291:16)
+    at emitTwo (events.js:106:13)
+    at Connection.emit (events.js:191:7)
+    at Socket.<anonymous> (/Users/raimonfuns/项目代码/mock/mock_server/node_modules/mongodb-core/lib/connection/connection.js:165:49)
+    at Socket.g (events.js:291:16)
+    at emitOne (events.js:96:13)
+    at Socket.emit (events.js:188:7)
+    at emitErrorNT (net.js:1276:8)
+    at _combinedTickCallback (internal/process/next_tick.js:74:11)
+    at process._tickDomainCallback (internal/process/next_tick.js:122:9)
+2016-11-17 21:09 +08:00: Thu, 17 Nov 2016 13:09:05 GMT koa deprecated Support for generators will been removed in v3. See the documentation for examples of how to convert old middleware https://github.com/koajs/koa/tree/v2.x#old-signature-middleware-v1x at mock_app.js:31:5
+2016-11-17 21:09 +08:00: Thu, 17 Nov 2016 13:09:05 GMT koa deprecated Support for generators will been removed in v3. See the documentation for examples of how to convert old middleware https://github.com/koajs/koa/tree/v2.x#old-signature-middleware-v1x at mock_app.js:32:5
+2016-11-17 21:09 +08:00: MongoError: failed to connect to server [localhost:27017] on first connect
+    at Pool.<anonymous> (/Users/raimonfuns/项目代码/mock/mock_server/node_modules/mongodb-core/lib/topologies/server.js:313:35)
+    at emitOne (events.js:96:13)
+    at Pool.emit (events.js:188:7)
+    at Connection.<anonymous> (/Users/raimonfuns/项目代码/mock/mock_server/node_modules/mongodb-core/lib/connection/pool.js:271:12)
+    at Connection.g (events.js:291:16)
+    at emitTwo (events.js:106:13)
+    at Connection.emit (events.js:191:7)
+    at Socket.<anonymous> (/Users/raimonfuns/项目代码/mock/mock_server/node_modules/mongodb-core/lib/connection/connection.js:165:49)
+    at Socket.g (events.js:291:16)
+    at emitOne (events.js:96:13)
+    at Socket.emit (events.js:188:7)
+    at emitErrorNT (net.js:1276:8)
+    at _combinedTickCallback (internal/process/next_tick.js:74:11)
+    at process._tickDomainCallback (internal/process/next_tick.js:122:9)
+2016-11-17 21:09 +08:00: Thu, 17 Nov 2016 13:09:06 GMT koa deprecated Support for generators will been removed in v3. See the documentation for examples of how to convert old middleware https://github.com/koajs/koa/tree/v2.x#old-signature-middleware-v1x at mock_app.js:31:5
+2016-11-17 21:09 +08:00: Thu, 17 Nov 2016 13:09:06 GMT koa deprecated Support for generators will been removed in v3. See the documentation for examples of how to convert old middleware https://github.com/koajs/koa/tree/v2.x#old-signature-middleware-v1x at mock_app.js:32:5
+2016-11-17 21:09 +08:00: MongoError: failed to connect to server [localhost:27017] on first connect
+    at Pool.<anonymous> (/Users/raimonfuns/项目代码/mock/mock_server/node_modules/mongodb-core/lib/topologies/server.js:313:35)
+    at emitOne (events.js:96:13)
+    at Pool.emit (events.js:188:7)
+    at Connection.<anonymous> (/Users/raimonfuns/项目代码/mock/mock_server/node_modules/mongodb-core/lib/connection/pool.js:271:12)
+    at Connection.g (events.js:291:16)
+    at emitTwo (events.js:106:13)
+    at Connection.emit (events.js:191:7)
+    at Socket.<anonymous> (/Users/raimonfuns/项目代码/mock/mock_server/node_modules/mongodb-core/lib/connection/connection.js:165:49)
+    at Socket.g (events.js:291:16)
+    at emitOne (events.js:96:13)
+    at Socket.emit (events.js:188:7)
+    at emitErrorNT (net.js:1276:8)
+    at _combinedTickCallback (internal/process/next_tick.js:74:11)
+    at process._tickDomainCallback (internal/process/next_tick.js:122:9)
+2016-11-17 21:09 +08:00: Thu, 17 Nov 2016 13:09:07 GMT koa deprecated Support for generators will been removed in v3. See the documentation for examples of how to convert old middleware https://github.com/koajs/koa/tree/v2.x#old-signature-middleware-v1x at mock_app.js:31:5
+2016-11-17 21:09 +08:00: Thu, 17 Nov 2016 13:09:07 GMT koa deprecated Support for generators will been removed in v3. See the documentation for examples of how to convert old middleware https://github.com/koajs/koa/tree/v2.x#old-signature-middleware-v1x at mock_app.js:32:5
+2016-11-17 21:09 +08:00: MongoError: failed to connect to server [localhost:27017] on first connect
+    at Pool.<anonymous> (/Users/raimonfuns/项目代码/mock/mock_server/node_modules/mongodb-core/lib/topologies/server.js:313:35)
+    at emitOne (events.js:96:13)
+    at Pool.emit (events.js:188:7)
+    at Connection.<anonymous> (/Users/raimonfuns/项目代码/mock/mock_server/node_modules/mongodb-core/lib/connection/pool.js:271:12)
+    at Connection.g (events.js:291:16)
+    at emitTwo (events.js:106:13)
+    at Connection.emit (events.js:191:7)
+    at Socket.<anonymous> (/Users/raimonfuns/项目代码/mock/mock_server/node_modules/mongodb-core/lib/connection/connection.js:165:49)
+    at Socket.g (events.js:291:16)
+    at emitOne (events.js:96:13)
+    at Socket.emit (events.js:188:7)
+    at emitErrorNT (net.js:1276:8)
+    at _combinedTickCallback (internal/process/next_tick.js:74:11)
+    at process._tickDomainCallback (internal/process/next_tick.js:122:9)
+2016-11-17 21:09 +08:00: Thu, 17 Nov 2016 13:09:09 GMT koa deprecated Support for generators will been removed in v3. See the documentation for examples of how to convert old middleware https://github.com/koajs/koa/tree/v2.x#old-signature-middleware-v1x at mock_app.js:31:5
+2016-11-17 21:09 +08:00: Thu, 17 Nov 2016 13:09:09 GMT koa deprecated Support for generators will been removed in v3. See the documentation for examples of how to convert old middleware https://github.com/koajs/koa/tree/v2.x#old-signature-middleware-v1x at mock_app.js:32:5
+2016-11-17 21:09 +08:00: MongoError: failed to connect to server [localhost:27017] on first connect
+    at Pool.<anonymous> (/Users/raimonfuns/项目代码/mock/mock_server/node_modules/mongodb-core/lib/topologies/server.js:313:35)
+    at emitOne (events.js:96:13)
+    at Pool.emit (events.js:188:7)
+    at Connection.<anonymous> (/Users/raimonfuns/项目代码/mock/mock_server/node_modules/mongodb-core/lib/connection/pool.js:271:12)
+    at Connection.g (events.js:291:16)
+    at emitTwo (events.js:106:13)
+    at Connection.emit (events.js:191:7)
+    at Socket.<anonymous> (/Users/raimonfuns/项目代码/mock/mock_server/node_modules/mongodb-core/lib/connection/connection.js:165:49)
+    at Socket.g (events.js:291:16)
+    at emitOne (events.js:96:13)
+    at Socket.emit (events.js:188:7)
+    at emitErrorNT (net.js:1276:8)
+    at _combinedTickCallback (internal/process/next_tick.js:74:11)
+    at process._tickDomainCallback (internal/process/next_tick.js:122:9)
+2016-11-17 21:09 +08:00: Thu, 17 Nov 2016 13:09:10 GMT koa deprecated Support for generators will been removed in v3. See the documentation for examples of how to convert old middleware https://github.com/koajs/koa/tree/v2.x#old-signature-middleware-v1x at mock_app.js:31:5
+2016-11-17 21:09 +08:00: Thu, 17 Nov 2016 13:09:10 GMT koa deprecated Support for generators will been removed in v3. See the documentation for examples of how to convert old middleware https://github.com/koajs/koa/tree/v2.x#old-signature-middleware-v1x at mock_app.js:32:5
+2016-11-17 21:09 +08:00: MongoError: failed to connect to server [localhost:27017] on first connect
+    at Pool.<anonymous> (/Users/raimonfuns/项目代码/mock/mock_server/node_modules/mongodb-core/lib/topologies/server.js:313:35)
+    at emitOne (events.js:96:13)
+    at Pool.emit (events.js:188:7)
+    at Connection.<anonymous> (/Users/raimonfuns/项目代码/mock/mock_server/node_modules/mongodb-core/lib/connection/pool.js:271:12)
+    at Connection.g (events.js:291:16)
+    at emitTwo (events.js:106:13)
+    at Connection.emit (events.js:191:7)
+    at Socket.<anonymous> (/Users/raimonfuns/项目代码/mock/mock_server/node_modules/mongodb-core/lib/connection/connection.js:165:49)
+    at Socket.g (events.js:291:16)
+    at emitOne (events.js:96:13)
+    at Socket.emit (events.js:188:7)
+    at emitErrorNT (net.js:1276:8)
+    at _combinedTickCallback (internal/process/next_tick.js:74:11)
+    at process._tickDomainCallback (internal/process/next_tick.js:122:9)
+2016-11-17 21:09 +08:00: Thu, 17 Nov 2016 13:09:12 GMT koa deprecated Support for generators will been removed in v3. See the documentation for examples of how to convert old middleware https://github.com/koajs/koa/tree/v2.x#old-signature-middleware-v1x at mock_app.js:31:5
+2016-11-17 21:09 +08:00: Thu, 17 Nov 2016 13:09:12 GMT koa deprecated Support for generators will been removed in v3. See the documentation for examples of how to convert old middleware https://github.com/koajs/koa/tree/v2.x#old-signature-middleware-v1x at mock_app.js:32:5
+2016-11-17 21:09 +08:00: MongoError: failed to connect to server [localhost:27017] on first connect
+    at Pool.<anonymous> (/Users/raimonfuns/项目代码/mock/mock_server/node_modules/mongodb-core/lib/topologies/server.js:313:35)
+    at emitOne (events.js:96:13)
+    at Pool.emit (events.js:188:7)
+    at Connection.<anonymous> (/Users/raimonfuns/项目代码/mock/mock_server/node_modules/mongodb-core/lib/connection/pool.js:271:12)
+    at Connection.g (events.js:291:16)
+    at emitTwo (events.js:106:13)
+    at Connection.emit (events.js:191:7)
+    at Socket.<anonymous> (/Users/raimonfuns/项目代码/mock/mock_server/node_modules/mongodb-core/lib/connection/connection.js:165:49)
+    at Socket.g (events.js:291:16)
+    at emitOne (events.js:96:13)
+    at Socket.emit (events.js:188:7)
+    at emitErrorNT (net.js:1276:8)
+    at _combinedTickCallback (internal/process/next_tick.js:74:11)
+    at process._tickDomainCallback (internal/process/next_tick.js:122:9)
+2016-11-17 21:09 +08:00: Thu, 17 Nov 2016 13:09:14 GMT koa deprecated Support for generators will been removed in v3. See the documentation for examples of how to convert old middleware https://github.com/koajs/koa/tree/v2.x#old-signature-middleware-v1x at mock_app.js:31:5
+2016-11-17 21:09 +08:00: Thu, 17 Nov 2016 13:09:14 GMT koa deprecated Support for generators will been removed in v3. See the documentation for examples of how to convert old middleware https://github.com/koajs/koa/tree/v2.x#old-signature-middleware-v1x at mock_app.js:32:5
+2016-11-17 21:09 +08:00: MongoError: failed to connect to server [localhost:27017] on first connect
+    at Pool.<anonymous> (/Users/raimonfuns/项目代码/mock/mock_server/node_modules/mongodb-core/lib/topologies/server.js:313:35)
+    at emitOne (events.js:96:13)
+    at Pool.emit (events.js:188:7)
+    at Connection.<anonymous> (/Users/raimonfuns/项目代码/mock/mock_server/node_modules/mongodb-core/lib/connection/pool.js:271:12)
+    at Connection.g (events.js:291:16)
+    at emitTwo (events.js:106:13)
+    at Connection.emit (events.js:191:7)
+    at Socket.<anonymous> (/Users/raimonfuns/项目代码/mock/mock_server/node_modules/mongodb-core/lib/connection/connection.js:165:49)
+    at Socket.g (events.js:291:16)
+    at emitOne (events.js:96:13)
+    at Socket.emit (events.js:188:7)
+    at emitErrorNT (net.js:1276:8)
+    at _combinedTickCallback (internal/process/next_tick.js:74:11)
+    at process._tickDomainCallback (internal/process/next_tick.js:122:9)
+2016-11-17 21:09 +08:00: Thu, 17 Nov 2016 13:09:16 GMT koa deprecated Support for generators will been removed in v3. See the documentation for examples of how to convert old middleware https://github.com/koajs/koa/tree/v2.x#old-signature-middleware-v1x at mock_app.js:31:5
+2016-11-17 21:09 +08:00: Thu, 17 Nov 2016 13:09:16 GMT koa deprecated Support for generators will been removed in v3. See the documentation for examples of how to convert old middleware https://github.com/koajs/koa/tree/v2.x#old-signature-middleware-v1x at mock_app.js:32:5
+2016-11-17 21:09 +08:00: MongoError: failed to connect to server [localhost:27017] on first connect
+    at Pool.<anonymous> (/Users/raimonfuns/项目代码/mock/mock_server/node_modules/mongodb-core/lib/topologies/server.js:313:35)
+    at emitOne (events.js:96:13)
+    at Pool.emit (events.js:188:7)
+    at Connection.<anonymous> (/Users/raimonfuns/项目代码/mock/mock_server/node_modules/mongodb-core/lib/connection/pool.js:271:12)
+    at Connection.g (events.js:291:16)
+    at emitTwo (events.js:106:13)
+    at Connection.emit (events.js:191:7)
+    at Socket.<anonymous> (/Users/raimonfuns/项目代码/mock/mock_server/node_modules/mongodb-core/lib/connection/connection.js:165:49)
+    at Socket.g (events.js:291:16)
+    at emitOne (events.js:96:13)
+    at Socket.emit (events.js:188:7)
+    at emitErrorNT (net.js:1276:8)
+    at _combinedTickCallback (internal/process/next_tick.js:74:11)
+    at process._tickDomainCallback (internal/process/next_tick.js:122:9)
+2016-11-17 21:09 +08:00: Thu, 17 Nov 2016 13:09:17 GMT koa deprecated Support for generators will been removed in v3. See the documentation for examples of how to convert old middleware https://github.com/koajs/koa/tree/v2.x#old-signature-middleware-v1x at mock_app.js:31:5
+2016-11-17 21:09 +08:00: Thu, 17 Nov 2016 13:09:17 GMT koa deprecated Support for generators will been removed in v3. See the documentation for examples of how to convert old middleware https://github.com/koajs/koa/tree/v2.x#old-signature-middleware-v1x at mock_app.js:32:5
+2016-11-17 21:09 +08:00: MongoError: failed to connect to server [localhost:27017] on first connect
+    at Pool.<anonymous> (/Users/raimonfuns/项目代码/mock/mock_server/node_modules/mongodb-core/lib/topologies/server.js:313:35)
+    at emitOne (events.js:96:13)
+    at Pool.emit (events.js:188:7)
+    at Connection.<anonymous> (/Users/raimonfuns/项目代码/mock/mock_server/node_modules/mongodb-core/lib/connection/pool.js:271:12)
+    at Connection.g (events.js:291:16)
+    at emitTwo (events.js:106:13)
+    at Connection.emit (events.js:191:7)
+    at Socket.<anonymous> (/Users/raimonfuns/项目代码/mock/mock_server/node_modules/mongodb-core/lib/connection/connection.js:165:49)
+    at Socket.g (events.js:291:16)
+    at emitOne (events.js:96:13)
+    at Socket.emit (events.js:188:7)
+    at emitErrorNT (net.js:1276:8)
+    at _combinedTickCallback (internal/process/next_tick.js:74:11)
+    at process._tickDomainCallback (internal/process/next_tick.js:122:9)
+2016-11-17 21:09 +08:00: Thu, 17 Nov 2016 13:09:19 GMT koa deprecated Support for generators will been removed in v3. See the documentation for examples of how to convert old middleware https://github.com/koajs/koa/tree/v2.x#old-signature-middleware-v1x at mock_app.js:31:5
+2016-11-17 21:09 +08:00: Thu, 17 Nov 2016 13:09:19 GMT koa deprecated Support for generators will been removed in v3. See the documentation for examples of how to convert old middleware https://github.com/koajs/koa/tree/v2.x#old-signature-middleware-v1x at mock_app.js:32:5
+2016-11-17 21:09 +08:00: MongoError: failed to connect to server [localhost:27017] on first connect
+    at Pool.<anonymous> (/Users/raimonfuns/项目代码/mock/mock_server/node_modules/mongodb-core/lib/topologies/server.js:313:35)
+    at emitOne (events.js:96:13)
+    at Pool.emit (events.js:188:7)
+    at Connection.<anonymous> (/Users/raimonfuns/项目代码/mock/mock_server/node_modules/mongodb-core/lib/connection/pool.js:271:12)
+    at Connection.g (events.js:291:16)
+    at emitTwo (events.js:106:13)
+    at Connection.emit (events.js:191:7)
+    at Socket.<anonymous> (/Users/raimonfuns/项目代码/mock/mock_server/node_modules/mongodb-core/lib/connection/connection.js:165:49)
+    at Socket.g (events.js:291:16)
+    at emitOne (events.js:96:13)
+    at Socket.emit (events.js:188:7)
+    at emitErrorNT (net.js:1276:8)
+    at _combinedTickCallback (internal/process/next_tick.js:74:11)
+    at process._tickDomainCallback (internal/process/next_tick.js:122:9)
+2016-11-17 21:09 +08:00: Thu, 17 Nov 2016 13:09:21 GMT koa deprecated Support for generators will been removed in v3. See the documentation for examples of how to convert old middleware https://github.com/koajs/koa/tree/v2.x#old-signature-middleware-v1x at mock_app.js:31:5
+2016-11-17 21:09 +08:00: Thu, 17 Nov 2016 13:09:21 GMT koa deprecated Support for generators will been removed in v3. See the documentation for examples of how to convert old middleware https://github.com/koajs/koa/tree/v2.x#old-signature-middleware-v1x at mock_app.js:32:5
+2016-11-17 21:09 +08:00: MongoError: failed to connect to server [localhost:27017] on first connect
+    at Pool.<anonymous> (/Users/raimonfuns/项目代码/mock/mock_server/node_modules/mongodb-core/lib/topologies/server.js:313:35)
+    at emitOne (events.js:96:13)
+    at Pool.emit (events.js:188:7)
+    at Connection.<anonymous> (/Users/raimonfuns/项目代码/mock/mock_server/node_modules/mongodb-core/lib/connection/pool.js:271:12)
+    at Connection.g (events.js:291:16)
+    at emitTwo (events.js:106:13)
+    at Connection.emit (events.js:191:7)
+    at Socket.<anonymous> (/Users/raimonfuns/项目代码/mock/mock_server/node_modules/mongodb-core/lib/connection/connection.js:165:49)
+    at Socket.g (events.js:291:16)
+    at emitOne (events.js:96:13)
+    at Socket.emit (events.js:188:7)
+    at emitErrorNT (net.js:1276:8)
+    at _combinedTickCallback (internal/process/next_tick.js:74:11)
+    at process._tickDomainCallback (internal/process/next_tick.js:122:9)
+2016-11-17 21:09 +08:00: Thu, 17 Nov 2016 13:09:22 GMT koa deprecated Support for generators will been removed in v3. See the documentation for examples of how to convert old middleware https://github.com/koajs/koa/tree/v2.x#old-signature-middleware-v1x at mock_app.js:31:5
+2016-11-17 21:09 +08:00: Thu, 17 Nov 2016 13:09:22 GMT koa deprecated Support for generators will been removed in v3. See the documentation for examples of how to convert old middleware https://github.com/koajs/koa/tree/v2.x#old-signature-middleware-v1x at mock_app.js:32:5
+2016-11-17 21:09 +08:00: MongoError: failed to connect to server [localhost:27017] on first connect
+    at Pool.<anonymous> (/Users/raimonfuns/项目代码/mock/mock_server/node_modules/mongodb-core/lib/topologies/server.js:313:35)
+    at emitOne (events.js:96:13)
+    at Pool.emit (events.js:188:7)
+    at Connection.<anonymous> (/Users/raimonfuns/项目代码/mock/mock_server/node_modules/mongodb-core/lib/connection/pool.js:271:12)
+    at Connection.g (events.js:291:16)
+    at emitTwo (events.js:106:13)
+    at Connection.emit (events.js:191:7)
+    at Socket.<anonymous> (/Users/raimonfuns/项目代码/mock/mock_server/node_modules/mongodb-core/lib/connection/connection.js:165:49)
+    at Socket.g (events.js:291:16)
+    at emitOne (events.js:96:13)
+    at Socket.emit (events.js:188:7)
+    at emitErrorNT (net.js:1276:8)
+    at _combinedTickCallback (internal/process/next_tick.js:74:11)
+    at process._tickDomainCallback (internal/process/next_tick.js:122:9)
+2016-11-17 21:09 +08:00: Thu, 17 Nov 2016 13:09:24 GMT koa deprecated Support for generators will been removed in v3. See the documentation for examples of how to convert old middleware https://github.com/koajs/koa/tree/v2.x#old-signature-middleware-v1x at mock_app.js:31:5
+2016-11-17 21:09 +08:00: Thu, 17 Nov 2016 13:09:24 GMT koa deprecated Support for generators will been removed in v3. See the documentation for examples of how to convert old middleware https://github.com/koajs/koa/tree/v2.x#old-signature-middleware-v1x at mock_app.js:32:5
+2016-11-17 21:09 +08:00: MongoError: failed to connect to server [localhost:27017] on first connect
+    at Pool.<anonymous> (/Users/raimonfuns/项目代码/mock/mock_server/node_modules/mongodb-core/lib/topologies/server.js:313:35)
+    at emitOne (events.js:96:13)
+    at Pool.emit (events.js:188:7)
+    at Connection.<anonymous> (/Users/raimonfuns/项目代码/mock/mock_server/node_modules/mongodb-core/lib/connection/pool.js:271:12)
+    at Connection.g (events.js:291:16)
+    at emitTwo (events.js:106:13)
+    at Connection.emit (events.js:191:7)
+    at Socket.<anonymous> (/Users/raimonfuns/项目代码/mock/mock_server/node_modules/mongodb-core/lib/connection/connection.js:165:49)
+    at Socket.g (events.js:291:16)
+    at emitOne (events.js:96:13)
+    at Socket.emit (events.js:188:7)
+    at emitErrorNT (net.js:1276:8)
+    at _combinedTickCallback (internal/process/next_tick.js:74:11)
+    at process._tickDomainCallback (internal/process/next_tick.js:122:9)
+2016-11-17 21:09 +08:00: Thu, 17 Nov 2016 13:09:26 GMT koa deprecated Support for generators will been removed in v3. See the documentation for examples of how to convert old middleware https://github.com/koajs/koa/tree/v2.x#old-signature-middleware-v1x at mock_app.js:31:5
+2016-11-17 21:09 +08:00: Thu, 17 Nov 2016 13:09:26 GMT koa deprecated Support for generators will been removed in v3. See the documentation for examples of how to convert old middleware https://github.com/koajs/koa/tree/v2.x#old-signature-middleware-v1x at mock_app.js:32:5
+2016-11-17 21:09 +08:00: MongoError: failed to connect to server [localhost:27017] on first connect
+    at Pool.<anonymous> (/Users/raimonfuns/项目代码/mock/mock_server/node_modules/mongodb-core/lib/topologies/server.js:313:35)
+    at emitOne (events.js:96:13)
+    at Pool.emit (events.js:188:7)
+    at Connection.<anonymous> (/Users/raimonfuns/项目代码/mock/mock_server/node_modules/mongodb-core/lib/connection/pool.js:271:12)
+    at Connection.g (events.js:291:16)
+    at emitTwo (events.js:106:13)
+    at Connection.emit (events.js:191:7)
+    at Socket.<anonymous> (/Users/raimonfuns/项目代码/mock/mock_server/node_modules/mongodb-core/lib/connection/connection.js:165:49)
+    at Socket.g (events.js:291:16)
+    at emitOne (events.js:96:13)
+    at Socket.emit (events.js:188:7)
+    at emitErrorNT (net.js:1276:8)
+    at _combinedTickCallback (internal/process/next_tick.js:74:11)
+    at process._tickDomainCallback (internal/process/next_tick.js:122:9)
+2016-11-17 21:09 +08:00: Thu, 17 Nov 2016 13:09:27 GMT koa deprecated Support for generators will been removed in v3. See the documentation for examples of how to convert old middleware https://github.com/koajs/koa/tree/v2.x#old-signature-middleware-v1x at mock_app.js:31:5
+2016-11-17 21:09 +08:00: Thu, 17 Nov 2016 13:09:27 GMT koa deprecated Support for generators will been removed in v3. See the documentation for examples of how to convert old middleware https://github.com/koajs/koa/tree/v2.x#old-signature-middleware-v1x at mock_app.js:32:5
+2016-11-17 21:09 +08:00: MongoError: failed to connect to server [localhost:27017] on first connect
+    at Pool.<anonymous> (/Users/raimonfuns/项目代码/mock/mock_server/node_modules/mongodb-core/lib/topologies/server.js:313:35)
+    at emitOne (events.js:96:13)
+    at Pool.emit (events.js:188:7)
+    at Connection.<anonymous> (/Users/raimonfuns/项目代码/mock/mock_server/node_modules/mongodb-core/lib/connection/pool.js:271:12)
+    at Connection.g (events.js:291:16)
+    at emitTwo (events.js:106:13)
+    at Connection.emit (events.js:191:7)
+    at Socket.<anonymous> (/Users/raimonfuns/项目代码/mock/mock_server/node_modules/mongodb-core/lib/connection/connection.js:165:49)
+    at Socket.g (events.js:291:16)
+    at emitOne (events.js:96:13)
+    at Socket.emit (events.js:188:7)
+    at emitErrorNT (net.js:1276:8)
+    at _combinedTickCallback (internal/process/next_tick.js:74:11)
+    at process._tickDomainCallback (internal/process/next_tick.js:122:9)
+2016-11-17 21:09 +08:00: Thu, 17 Nov 2016 13:09:29 GMT koa deprecated Support for generators will been removed in v3. See the documentation for examples of how to convert old middleware https://github.com/koajs/koa/tree/v2.x#old-signature-middleware-v1x at mock_app.js:31:5
+2016-11-17 21:09 +08:00: Thu, 17 Nov 2016 13:09:29 GMT koa deprecated Support for generators will been removed in v3. See the documentation for examples of how to convert old middleware https://github.com/koajs/koa/tree/v2.x#old-signature-middleware-v1x at mock_app.js:32:5
+2016-11-17 21:09 +08:00: MongoError: failed to connect to server [localhost:27017] on first connect
+    at Pool.<anonymous> (/Users/raimonfuns/项目代码/mock/mock_server/node_modules/mongodb-core/lib/topologies/server.js:313:35)
+    at emitOne (events.js:96:13)
+    at Pool.emit (events.js:188:7)
+    at Connection.<anonymous> (/Users/raimonfuns/项目代码/mock/mock_server/node_modules/mongodb-core/lib/connection/pool.js:271:12)
+    at Connection.g (events.js:291:16)
+    at emitTwo (events.js:106:13)
+    at Connection.emit (events.js:191:7)
+    at Socket.<anonymous> (/Users/raimonfuns/项目代码/mock/mock_server/node_modules/mongodb-core/lib/connection/connection.js:165:49)
+    at Socket.g (events.js:291:16)
+    at emitOne (events.js:96:13)
+    at Socket.emit (events.js:188:7)
+    at emitErrorNT (net.js:1276:8)
+    at _combinedTickCallback (internal/process/next_tick.js:74:11)
+    at process._tickDomainCallback (internal/process/next_tick.js:122:9)
+2016-11-17 21:09 +08:00: Thu, 17 Nov 2016 13:09:30 GMT koa deprecated Support for generators will been removed in v3. See the documentation for examples of how to convert old middleware https://github.com/koajs/koa/tree/v2.x#old-signature-middleware-v1x at mock_app.js:31:5
+2016-11-17 21:09 +08:00: Thu, 17 Nov 2016 13:09:30 GMT koa deprecated Support for generators will been removed in v3. See the documentation for examples of how to convert old middleware https://github.com/koajs/koa/tree/v2.x#old-signature-middleware-v1x at mock_app.js:32:5
+2016-11-17 21:09 +08:00: MongoError: failed to connect to server [localhost:27017] on first connect
+    at Pool.<anonymous> (/Users/raimonfuns/项目代码/mock/mock_server/node_modules/mongodb-core/lib/topologies/server.js:313:35)
+    at emitOne (events.js:96:13)
+    at Pool.emit (events.js:188:7)
+    at Connection.<anonymous> (/Users/raimonfuns/项目代码/mock/mock_server/node_modules/mongodb-core/lib/connection/pool.js:271:12)
+    at Connection.g (events.js:291:16)
+    at emitTwo (events.js:106:13)
+    at Connection.emit (events.js:191:7)
+    at Socket.<anonymous> (/Users/raimonfuns/项目代码/mock/mock_server/node_modules/mongodb-core/lib/connection/connection.js:165:49)
+    at Socket.g (events.js:291:16)
+    at emitOne (events.js:96:13)
+    at Socket.emit (events.js:188:7)
+    at emitErrorNT (net.js:1276:8)
+    at _combinedTickCallback (internal/process/next_tick.js:74:11)
+    at process._tickDomainCallback (internal/process/next_tick.js:122:9)
+2016-11-17 21:09 +08:00: Thu, 17 Nov 2016 13:09:32 GMT koa deprecated Support for generators will been removed in v3. See the documentation for examples of how to convert old middleware https://github.com/koajs/koa/tree/v2.x#old-signature-middleware-v1x at mock_app.js:31:5
+2016-11-17 21:09 +08:00: Thu, 17 Nov 2016 13:09:32 GMT koa deprecated Support for generators will been removed in v3. See the documentation for examples of how to convert old middleware https://github.com/koajs/koa/tree/v2.x#old-signature-middleware-v1x at mock_app.js:32:5
+2016-11-17 21:09 +08:00: MongoError: failed to connect to server [localhost:27017] on first connect
+    at Pool.<anonymous> (/Users/raimonfuns/项目代码/mock/mock_server/node_modules/mongodb-core/lib/topologies/server.js:313:35)
+    at emitOne (events.js:96:13)
+    at Pool.emit (events.js:188:7)
+    at Connection.<anonymous> (/Users/raimonfuns/项目代码/mock/mock_server/node_modules/mongodb-core/lib/connection/pool.js:271:12)
+    at Connection.g (events.js:291:16)
+    at emitTwo (events.js:106:13)
+    at Connection.emit (events.js:191:7)
+    at Socket.<anonymous> (/Users/raimonfuns/项目代码/mock/mock_server/node_modules/mongodb-core/lib/connection/connection.js:165:49)
+    at Socket.g (events.js:291:16)
+    at emitOne (events.js:96:13)
+    at Socket.emit (events.js:188:7)
+    at emitErrorNT (net.js:1276:8)
+    at _combinedTickCallback (internal/process/next_tick.js:74:11)
+    at process._tickDomainCallback (internal/process/next_tick.js:122:9)
+2016-11-17 21:09 +08:00: Thu, 17 Nov 2016 13:09:34 GMT koa deprecated Support for generators will been removed in v3. See the documentation for examples of how to convert old middleware https://github.com/koajs/koa/tree/v2.x#old-signature-middleware-v1x at mock_app.js:31:5
+2016-11-17 21:09 +08:00: Thu, 17 Nov 2016 13:09:34 GMT koa deprecated Support for generators will been removed in v3. See the documentation for examples of how to convert old middleware https://github.com/koajs/koa/tree/v2.x#old-signature-middleware-v1x at mock_app.js:32:5
+2016-11-17 21:09 +08:00: MongoError: failed to connect to server [localhost:27017] on first connect
+    at Pool.<anonymous> (/Users/raimonfuns/项目代码/mock/mock_server/node_modules/mongodb-core/lib/topologies/server.js:313:35)
+    at emitOne (events.js:96:13)
+    at Pool.emit (events.js:188:7)
+    at Connection.<anonymous> (/Users/raimonfuns/项目代码/mock/mock_server/node_modules/mongodb-core/lib/connection/pool.js:271:12)
+    at Connection.g (events.js:291:16)
+    at emitTwo (events.js:106:13)
+    at Connection.emit (events.js:191:7)
+    at Socket.<anonymous> (/Users/raimonfuns/项目代码/mock/mock_server/node_modules/mongodb-core/lib/connection/connection.js:165:49)
+    at Socket.g (events.js:291:16)
+    at emitOne (events.js:96:13)
+    at Socket.emit (events.js:188:7)
+    at emitErrorNT (net.js:1276:8)
+    at _combinedTickCallback (internal/process/next_tick.js:74:11)
+    at process._tickDomainCallback (internal/process/next_tick.js:122:9)
+2016-11-17 21:09 +08:00: Thu, 17 Nov 2016 13:09:35 GMT koa deprecated Support for generators will been removed in v3. See the documentation for examples of how to convert old middleware https://github.com/koajs/koa/tree/v2.x#old-signature-middleware-v1x at mock_app.js:31:5
+2016-11-17 21:09 +08:00: Thu, 17 Nov 2016 13:09:35 GMT koa deprecated Support for generators will been removed in v3. See the documentation for examples of how to convert old middleware https://github.com/koajs/koa/tree/v2.x#old-signature-middleware-v1x at mock_app.js:32:5
+2016-11-17 21:09 +08:00: MongoError: failed to connect to server [localhost:27017] on first connect
+    at Pool.<anonymous> (/Users/raimonfuns/项目代码/mock/mock_server/node_modules/mongodb-core/lib/topologies/server.js:313:35)
+    at emitOne (events.js:96:13)
+    at Pool.emit (events.js:188:7)
+    at Connection.<anonymous> (/Users/raimonfuns/项目代码/mock/mock_server/node_modules/mongodb-core/lib/connection/pool.js:271:12)
+    at Connection.g (events.js:291:16)
+    at emitTwo (events.js:106:13)
+    at Connection.emit (events.js:191:7)
+    at Socket.<anonymous> (/Users/raimonfuns/项目代码/mock/mock_server/node_modules/mongodb-core/lib/connection/connection.js:165:49)
+    at Socket.g (events.js:291:16)
+    at emitOne (events.js:96:13)
+    at Socket.emit (events.js:188:7)
+    at emitErrorNT (net.js:1276:8)
+    at _combinedTickCallback (internal/process/next_tick.js:74:11)
+    at process._tickDomainCallback (internal/process/next_tick.js:122:9)
+2016-11-17 21:09 +08:00: Thu, 17 Nov 2016 13:09:37 GMT koa deprecated Support for generators will been removed in v3. See the documentation for examples of how to convert old middleware https://github.com/koajs/koa/tree/v2.x#old-signature-middleware-v1x at mock_app.js:31:5
+2016-11-17 21:09 +08:00: Thu, 17 Nov 2016 13:09:37 GMT koa deprecated Support for generators will been removed in v3. See the documentation for examples of how to convert old middleware https://github.com/koajs/koa/tree/v2.x#old-signature-middleware-v1x at mock_app.js:32:5
+2016-11-17 21:09 +08:00: MongoError: failed to connect to server [localhost:27017] on first connect
+    at Pool.<anonymous> (/Users/raimonfuns/项目代码/mock/mock_server/node_modules/mongodb-core/lib/topologies/server.js:313:35)
+    at emitOne (events.js:96:13)
+    at Pool.emit (events.js:188:7)
+    at Connection.<anonymous> (/Users/raimonfuns/项目代码/mock/mock_server/node_modules/mongodb-core/lib/connection/pool.js:271:12)
+    at Connection.g (events.js:291:16)
+    at emitTwo (events.js:106:13)
+    at Connection.emit (events.js:191:7)
+    at Socket.<anonymous> (/Users/raimonfuns/项目代码/mock/mock_server/node_modules/mongodb-core/lib/connection/connection.js:165:49)
+    at Socket.g (events.js:291:16)
+    at emitOne (events.js:96:13)
+    at Socket.emit (events.js:188:7)
+    at emitErrorNT (net.js:1276:8)
+    at _combinedTickCallback (internal/process/next_tick.js:74:11)
+    at process._tickDomainCallback (internal/process/next_tick.js:122:9)
+2016-11-17 21:09 +08:00: Thu, 17 Nov 2016 13:09:39 GMT koa deprecated Support for generators will been removed in v3. See the documentation for examples of how to convert old middleware https://github.com/koajs/koa/tree/v2.x#old-signature-middleware-v1x at mock_app.js:31:5
+2016-11-17 21:09 +08:00: Thu, 17 Nov 2016 13:09:39 GMT koa deprecated Support for generators will been removed in v3. See the documentation for examples of how to convert old middleware https://github.com/koajs/koa/tree/v2.x#old-signature-middleware-v1x at mock_app.js:32:5
+2016-11-17 21:09 +08:00: MongoError: failed to connect to server [localhost:27017] on first connect
+    at Pool.<anonymous> (/Users/raimonfuns/项目代码/mock/mock_server/node_modules/mongodb-core/lib/topologies/server.js:313:35)
+    at emitOne (events.js:96:13)
+    at Pool.emit (events.js:188:7)
+    at Connection.<anonymous> (/Users/raimonfuns/项目代码/mock/mock_server/node_modules/mongodb-core/lib/connection/pool.js:271:12)
+    at Connection.g (events.js:291:16)
+    at emitTwo (events.js:106:13)
+    at Connection.emit (events.js:191:7)
+    at Socket.<anonymous> (/Users/raimonfuns/项目代码/mock/mock_server/node_modules/mongodb-core/lib/connection/connection.js:165:49)
+    at Socket.g (events.js:291:16)
+    at emitOne (events.js:96:13)
+    at Socket.emit (events.js:188:7)
+    at emitErrorNT (net.js:1276:8)
+    at _combinedTickCallback (internal/process/next_tick.js:74:11)
+    at process._tickDomainCallback (internal/process/next_tick.js:122:9)
+2016-11-17 21:09 +08:00: Thu, 17 Nov 2016 13:09:41 GMT koa deprecated Support for generators will been removed in v3. See the documentation for examples of how to convert old middleware https://github.com/koajs/koa/tree/v2.x#old-signature-middleware-v1x at mock_app.js:31:5
+2016-11-17 21:09 +08:00: Thu, 17 Nov 2016 13:09:41 GMT koa deprecated Support for generators will been removed in v3. See the documentation for examples of how to convert old middleware https://github.com/koajs/koa/tree/v2.x#old-signature-middleware-v1x at mock_app.js:32:5
+2016-11-17 21:09 +08:00: MongoError: failed to connect to server [localhost:27017] on first connect
+    at Pool.<anonymous> (/Users/raimonfuns/项目代码/mock/mock_server/node_modules/mongodb-core/lib/topologies/server.js:313:35)
+    at emitOne (events.js:96:13)
+    at Pool.emit (events.js:188:7)
+    at Connection.<anonymous> (/Users/raimonfuns/项目代码/mock/mock_server/node_modules/mongodb-core/lib/connection/pool.js:271:12)
+    at Connection.g (events.js:291:16)
+    at emitTwo (events.js:106:13)
+    at Connection.emit (events.js:191:7)
+    at Socket.<anonymous> (/Users/raimonfuns/项目代码/mock/mock_server/node_modules/mongodb-core/lib/connection/connection.js:165:49)
+    at Socket.g (events.js:291:16)
+    at emitOne (events.js:96:13)
+    at Socket.emit (events.js:188:7)
+    at emitErrorNT (net.js:1276:8)
+    at _combinedTickCallback (internal/process/next_tick.js:74:11)
+    at process._tickDomainCallback (internal/process/next_tick.js:122:9)
+2016-11-17 21:09 +08:00: Thu, 17 Nov 2016 13:09:43 GMT koa deprecated Support for generators will been removed in v3. See the documentation for examples of how to convert old middleware https://github.com/koajs/koa/tree/v2.x#old-signature-middleware-v1x at mock_app.js:31:5
+2016-11-17 21:09 +08:00: Thu, 17 Nov 2016 13:09:43 GMT koa deprecated Support for generators will been removed in v3. See the documentation for examples of how to convert old middleware https://github.com/koajs/koa/tree/v2.x#old-signature-middleware-v1x at mock_app.js:32:5
+2016-11-17 21:09 +08:00: MongoError: failed to connect to server [localhost:27017] on first connect
+    at Pool.<anonymous> (/Users/raimonfuns/项目代码/mock/mock_server/node_modules/mongodb-core/lib/topologies/server.js:313:35)
+    at emitOne (events.js:96:13)
+    at Pool.emit (events.js:188:7)
+    at Connection.<anonymous> (/Users/raimonfuns/项目代码/mock/mock_server/node_modules/mongodb-core/lib/connection/pool.js:271:12)
+    at Connection.g (events.js:291:16)
+    at emitTwo (events.js:106:13)
+    at Connection.emit (events.js:191:7)
+    at Socket.<anonymous> (/Users/raimonfuns/项目代码/mock/mock_server/node_modules/mongodb-core/lib/connection/connection.js:165:49)
+    at Socket.g (events.js:291:16)
+    at emitOne (events.js:96:13)
+    at Socket.emit (events.js:188:7)
+    at emitErrorNT (net.js:1276:8)
+    at _combinedTickCallback (internal/process/next_tick.js:74:11)
+    at process._tickDomainCallback (internal/process/next_tick.js:122:9)
+2016-11-17 21:09 +08:00: Thu, 17 Nov 2016 13:09:44 GMT koa deprecated Support for generators will been removed in v3. See the documentation for examples of how to convert old middleware https://github.com/koajs/koa/tree/v2.x#old-signature-middleware-v1x at mock_app.js:31:5
+2016-11-17 21:09 +08:00: Thu, 17 Nov 2016 13:09:44 GMT koa deprecated Support for generators will been removed in v3. See the documentation for examples of how to convert old middleware https://github.com/koajs/koa/tree/v2.x#old-signature-middleware-v1x at mock_app.js:32:5
+2016-11-17 21:09 +08:00: MongoError: failed to connect to server [localhost:27017] on first connect
+    at Pool.<anonymous> (/Users/raimonfuns/项目代码/mock/mock_server/node_modules/mongodb-core/lib/topologies/server.js:313:35)
+    at emitOne (events.js:96:13)
+    at Pool.emit (events.js:188:7)
+    at Connection.<anonymous> (/Users/raimonfuns/项目代码/mock/mock_server/node_modules/mongodb-core/lib/connection/pool.js:271:12)
+    at Connection.g (events.js:291:16)
+    at emitTwo (events.js:106:13)
+    at Connection.emit (events.js:191:7)
+    at Socket.<anonymous> (/Users/raimonfuns/项目代码/mock/mock_server/node_modules/mongodb-core/lib/connection/connection.js:165:49)
+    at Socket.g (events.js:291:16)
+    at emitOne (events.js:96:13)
+    at Socket.emit (events.js:188:7)
+    at emitErrorNT (net.js:1276:8)
+    at _combinedTickCallback (internal/process/next_tick.js:74:11)
+    at process._tickDomainCallback (internal/process/next_tick.js:122:9)
+2016-11-17 21:09 +08:00: Thu, 17 Nov 2016 13:09:46 GMT koa deprecated Support for generators will been removed in v3. See the documentation for examples of how to convert old middleware https://github.com/koajs/koa/tree/v2.x#old-signature-middleware-v1x at mock_app.js:31:5
+2016-11-17 21:09 +08:00: Thu, 17 Nov 2016 13:09:46 GMT koa deprecated Support for generators will been removed in v3. See the documentation for examples of how to convert old middleware https://github.com/koajs/koa/tree/v2.x#old-signature-middleware-v1x at mock_app.js:32:5
+2016-11-17 21:09 +08:00: MongoError: failed to connect to server [localhost:27017] on first connect
+    at Pool.<anonymous> (/Users/raimonfuns/项目代码/mock/mock_server/node_modules/mongodb-core/lib/topologies/server.js:313:35)
+    at emitOne (events.js:96:13)
+    at Pool.emit (events.js:188:7)
+    at Connection.<anonymous> (/Users/raimonfuns/项目代码/mock/mock_server/node_modules/mongodb-core/lib/connection/pool.js:271:12)
+    at Connection.g (events.js:291:16)
+    at emitTwo (events.js:106:13)
+    at Connection.emit (events.js:191:7)
+    at Socket.<anonymous> (/Users/raimonfuns/项目代码/mock/mock_server/node_modules/mongodb-core/lib/connection/connection.js:165:49)
+    at Socket.g (events.js:291:16)
+    at emitOne (events.js:96:13)
+    at Socket.emit (events.js:188:7)
+    at emitErrorNT (net.js:1276:8)
+    at _combinedTickCallback (internal/process/next_tick.js:74:11)
+    at process._tickDomainCallback (internal/process/next_tick.js:122:9)
+2016-11-17 21:09 +08:00: Thu, 17 Nov 2016 13:09:48 GMT koa deprecated Support for generators will been removed in v3. See the documentation for examples of how to convert old middleware https://github.com/koajs/koa/tree/v2.x#old-signature-middleware-v1x at mock_app.js:31:5
+2016-11-17 21:09 +08:00: Thu, 17 Nov 2016 13:09:48 GMT koa deprecated Support for generators will been removed in v3. See the documentation for examples of how to convert old middleware https://github.com/koajs/koa/tree/v2.x#old-signature-middleware-v1x at mock_app.js:32:5
+2016-11-17 21:09 +08:00: MongoError: failed to connect to server [localhost:27017] on first connect
+    at Pool.<anonymous> (/Users/raimonfuns/项目代码/mock/mock_server/node_modules/mongodb-core/lib/topologies/server.js:313:35)
+    at emitOne (events.js:96:13)
+    at Pool.emit (events.js:188:7)
+    at Connection.<anonymous> (/Users/raimonfuns/项目代码/mock/mock_server/node_modules/mongodb-core/lib/connection/pool.js:271:12)
+    at Connection.g (events.js:291:16)
+    at emitTwo (events.js:106:13)
+    at Connection.emit (events.js:191:7)
+    at Socket.<anonymous> (/Users/raimonfuns/项目代码/mock/mock_server/node_modules/mongodb-core/lib/connection/connection.js:165:49)
+    at Socket.g (events.js:291:16)
+    at emitOne (events.js:96:13)
+    at Socket.emit (events.js:188:7)
+    at emitErrorNT (net.js:1276:8)
+    at _combinedTickCallback (internal/process/next_tick.js:74:11)
+    at process._tickDomainCallback (internal/process/next_tick.js:122:9)
+2016-11-17 21:09 +08:00: Thu, 17 Nov 2016 13:09:49 GMT koa deprecated Support for generators will been removed in v3. See the documentation for examples of how to convert old middleware https://github.com/koajs/koa/tree/v2.x#old-signature-middleware-v1x at mock_app.js:31:5
+2016-11-17 21:09 +08:00: Thu, 17 Nov 2016 13:09:49 GMT koa deprecated Support for generators will been removed in v3. See the documentation for examples of how to convert old middleware https://github.com/koajs/koa/tree/v2.x#old-signature-middleware-v1x at mock_app.js:32:5
+2016-11-17 21:09 +08:00: MongoError: failed to connect to server [localhost:27017] on first connect
+    at Pool.<anonymous> (/Users/raimonfuns/项目代码/mock/mock_server/node_modules/mongodb-core/lib/topologies/server.js:313:35)
+    at emitOne (events.js:96:13)
+    at Pool.emit (events.js:188:7)
+    at Connection.<anonymous> (/Users/raimonfuns/项目代码/mock/mock_server/node_modules/mongodb-core/lib/connection/pool.js:271:12)
+    at Connection.g (events.js:291:16)
+    at emitTwo (events.js:106:13)
+    at Connection.emit (events.js:191:7)
+    at Socket.<anonymous> (/Users/raimonfuns/项目代码/mock/mock_server/node_modules/mongodb-core/lib/connection/connection.js:165:49)
+    at Socket.g (events.js:291:16)
+    at emitOne (events.js:96:13)
+    at Socket.emit (events.js:188:7)
+    at emitErrorNT (net.js:1276:8)
+    at _combinedTickCallback (internal/process/next_tick.js:74:11)
+    at process._tickDomainCallback (internal/process/next_tick.js:122:9)
+2016-11-17 21:09 +08:00: Thu, 17 Nov 2016 13:09:51 GMT koa deprecated Support for generators will been removed in v3. See the documentation for examples of how to convert old middleware https://github.com/koajs/koa/tree/v2.x#old-signature-middleware-v1x at mock_app.js:31:5
+2016-11-17 21:09 +08:00: Thu, 17 Nov 2016 13:09:51 GMT koa deprecated Support for generators will been removed in v3. See the documentation for examples of how to convert old middleware https://github.com/koajs/koa/tree/v2.x#old-signature-middleware-v1x at mock_app.js:32:5
+2016-11-17 21:09 +08:00: MongoError: failed to connect to server [localhost:27017] on first connect
+    at Pool.<anonymous> (/Users/raimonfuns/项目代码/mock/mock_server/node_modules/mongodb-core/lib/topologies/server.js:313:35)
+    at emitOne (events.js:96:13)
+    at Pool.emit (events.js:188:7)
+    at Connection.<anonymous> (/Users/raimonfuns/项目代码/mock/mock_server/node_modules/mongodb-core/lib/connection/pool.js:271:12)
+    at Connection.g (events.js:291:16)
+    at emitTwo (events.js:106:13)
+    at Connection.emit (events.js:191:7)
+    at Socket.<anonymous> (/Users/raimonfuns/项目代码/mock/mock_server/node_modules/mongodb-core/lib/connection/connection.js:165:49)
+    at Socket.g (events.js:291:16)
+    at emitOne (events.js:96:13)
+    at Socket.emit (events.js:188:7)
+    at emitErrorNT (net.js:1276:8)
+    at _combinedTickCallback (internal/process/next_tick.js:74:11)
+    at process._tickDomainCallback (internal/process/next_tick.js:122:9)
+2016-11-17 21:09 +08:00: Thu, 17 Nov 2016 13:09:52 GMT koa deprecated Support for generators will been removed in v3. See the documentation for examples of how to convert old middleware https://github.com/koajs/koa/tree/v2.x#old-signature-middleware-v1x at mock_app.js:31:5
+2016-11-17 21:09 +08:00: Thu, 17 Nov 2016 13:09:52 GMT koa deprecated Support for generators will been removed in v3. See the documentation for examples of how to convert old middleware https://github.com/koajs/koa/tree/v2.x#old-signature-middleware-v1x at mock_app.js:32:5
+2016-11-17 21:09 +08:00: MongoError: failed to connect to server [localhost:27017] on first connect
+    at Pool.<anonymous> (/Users/raimonfuns/项目代码/mock/mock_server/node_modules/mongodb-core/lib/topologies/server.js:313:35)
+    at emitOne (events.js:96:13)
+    at Pool.emit (events.js:188:7)
+    at Connection.<anonymous> (/Users/raimonfuns/项目代码/mock/mock_server/node_modules/mongodb-core/lib/connection/pool.js:271:12)
+    at Connection.g (events.js:291:16)
+    at emitTwo (events.js:106:13)
+    at Connection.emit (events.js:191:7)
+    at Socket.<anonymous> (/Users/raimonfuns/项目代码/mock/mock_server/node_modules/mongodb-core/lib/connection/connection.js:165:49)
+    at Socket.g (events.js:291:16)
+    at emitOne (events.js:96:13)
+    at Socket.emit (events.js:188:7)
+    at emitErrorNT (net.js:1276:8)
+    at _combinedTickCallback (internal/process/next_tick.js:74:11)
+    at process._tickDomainCallback (internal/process/next_tick.js:122:9)
+2016-11-17 21:09 +08:00: Thu, 17 Nov 2016 13:09:54 GMT koa deprecated Support for generators will been removed in v3. See the documentation for examples of how to convert old middleware https://github.com/koajs/koa/tree/v2.x#old-signature-middleware-v1x at mock_app.js:31:5
+2016-11-17 21:09 +08:00: Thu, 17 Nov 2016 13:09:54 GMT koa deprecated Support for generators will been removed in v3. See the documentation for examples of how to convert old middleware https://github.com/koajs/koa/tree/v2.x#old-signature-middleware-v1x at mock_app.js:32:5
+2016-11-17 21:09 +08:00: MongoError: failed to connect to server [localhost:27017] on first connect
+    at Pool.<anonymous> (/Users/raimonfuns/项目代码/mock/mock_server/node_modules/mongodb-core/lib/topologies/server.js:313:35)
+    at emitOne (events.js:96:13)
+    at Pool.emit (events.js:188:7)
+    at Connection.<anonymous> (/Users/raimonfuns/项目代码/mock/mock_server/node_modules/mongodb-core/lib/connection/pool.js:271:12)
+    at Connection.g (events.js:291:16)
+    at emitTwo (events.js:106:13)
+    at Connection.emit (events.js:191:7)
+    at Socket.<anonymous> (/Users/raimonfuns/项目代码/mock/mock_server/node_modules/mongodb-core/lib/connection/connection.js:165:49)
+    at Socket.g (events.js:291:16)
+    at emitOne (events.js:96:13)
+    at Socket.emit (events.js:188:7)
+    at emitErrorNT (net.js:1276:8)
+    at _combinedTickCallback (internal/process/next_tick.js:74:11)
+    at process._tickDomainCallback (internal/process/next_tick.js:122:9)
+2016-11-17 21:09 +08:00: Thu, 17 Nov 2016 13:09:56 GMT koa deprecated Support for generators will been removed in v3. See the documentation for examples of how to convert old middleware https://github.com/koajs/koa/tree/v2.x#old-signature-middleware-v1x at mock_app.js:31:5
+2016-11-17 21:09 +08:00: Thu, 17 Nov 2016 13:09:56 GMT koa deprecated Support for generators will been removed in v3. See the documentation for examples of how to convert old middleware https://github.com/koajs/koa/tree/v2.x#old-signature-middleware-v1x at mock_app.js:32:5
+2016-11-17 21:09 +08:00: MongoError: failed to connect to server [localhost:27017] on first connect
+    at Pool.<anonymous> (/Users/raimonfuns/项目代码/mock/mock_server/node_modules/mongodb-core/lib/topologies/server.js:313:35)
+    at emitOne (events.js:96:13)
+    at Pool.emit (events.js:188:7)
+    at Connection.<anonymous> (/Users/raimonfuns/项目代码/mock/mock_server/node_modules/mongodb-core/lib/connection/pool.js:271:12)
+    at Connection.g (events.js:291:16)
+    at emitTwo (events.js:106:13)
+    at Connection.emit (events.js:191:7)
+    at Socket.<anonymous> (/Users/raimonfuns/项目代码/mock/mock_server/node_modules/mongodb-core/lib/connection/connection.js:165:49)
+    at Socket.g (events.js:291:16)
+    at emitOne (events.js:96:13)
+    at Socket.emit (events.js:188:7)
+    at emitErrorNT (net.js:1276:8)
+    at _combinedTickCallback (internal/process/next_tick.js:74:11)
+    at process._tickDomainCallback (internal/process/next_tick.js:122:9)
+2016-11-17 21:09 +08:00: Thu, 17 Nov 2016 13:09:58 GMT koa deprecated Support for generators will been removed in v3. See the documentation for examples of how to convert old middleware https://github.com/koajs/koa/tree/v2.x#old-signature-middleware-v1x at mock_app.js:31:5
+2016-11-17 21:09 +08:00: Thu, 17 Nov 2016 13:09:58 GMT koa deprecated Support for generators will been removed in v3. See the documentation for examples of how to convert old middleware https://github.com/koajs/koa/tree/v2.x#old-signature-middleware-v1x at mock_app.js:32:5
+2016-11-17 21:09 +08:00: MongoError: failed to connect to server [localhost:27017] on first connect
+    at Pool.<anonymous> (/Users/raimonfuns/项目代码/mock/mock_server/node_modules/mongodb-core/lib/topologies/server.js:313:35)
+    at emitOne (events.js:96:13)
+    at Pool.emit (events.js:188:7)
+    at Connection.<anonymous> (/Users/raimonfuns/项目代码/mock/mock_server/node_modules/mongodb-core/lib/connection/pool.js:271:12)
+    at Connection.g (events.js:291:16)
+    at emitTwo (events.js:106:13)
+    at Connection.emit (events.js:191:7)
+    at Socket.<anonymous> (/Users/raimonfuns/项目代码/mock/mock_server/node_modules/mongodb-core/lib/connection/connection.js:165:49)
+    at Socket.g (events.js:291:16)
+    at emitOne (events.js:96:13)
+    at Socket.emit (events.js:188:7)
+    at emitErrorNT (net.js:1276:8)
+    at _combinedTickCallback (internal/process/next_tick.js:74:11)
+    at process._tickDomainCallback (internal/process/next_tick.js:122:9)
+2016-11-17 21:09 +08:00: Thu, 17 Nov 2016 13:09:59 GMT koa deprecated Support for generators will been removed in v3. See the documentation for examples of how to convert old middleware https://github.com/koajs/koa/tree/v2.x#old-signature-middleware-v1x at mock_app.js:31:5
+2016-11-17 21:09 +08:00: Thu, 17 Nov 2016 13:09:59 GMT koa deprecated Support for generators will been removed in v3. See the documentation for examples of how to convert old middleware https://github.com/koajs/koa/tree/v2.x#old-signature-middleware-v1x at mock_app.js:32:5
+2016-11-17 21:09 +08:00: MongoError: failed to connect to server [localhost:27017] on first connect
+    at Pool.<anonymous> (/Users/raimonfuns/项目代码/mock/mock_server/node_modules/mongodb-core/lib/topologies/server.js:313:35)
+    at emitOne (events.js:96:13)
+    at Pool.emit (events.js:188:7)
+    at Connection.<anonymous> (/Users/raimonfuns/项目代码/mock/mock_server/node_modules/mongodb-core/lib/connection/pool.js:271:12)
+    at Connection.g (events.js:291:16)
+    at emitTwo (events.js:106:13)
+    at Connection.emit (events.js:191:7)
+    at Socket.<anonymous> (/Users/raimonfuns/项目代码/mock/mock_server/node_modules/mongodb-core/lib/connection/connection.js:165:49)
+    at Socket.g (events.js:291:16)
+    at emitOne (events.js:96:13)
+    at Socket.emit (events.js:188:7)
+    at emitErrorNT (net.js:1276:8)
+    at _combinedTickCallback (internal/process/next_tick.js:74:11)
+    at process._tickDomainCallback (internal/process/next_tick.js:122:9)
+2016-11-17 21:10 +08:00: Thu, 17 Nov 2016 13:10:01 GMT koa deprecated Support for generators will been removed in v3. See the documentation for examples of how to convert old middleware https://github.com/koajs/koa/tree/v2.x#old-signature-middleware-v1x at mock_app.js:31:5
+2016-11-17 21:10 +08:00: Thu, 17 Nov 2016 13:10:01 GMT koa deprecated Support for generators will been removed in v3. See the documentation for examples of how to convert old middleware https://github.com/koajs/koa/tree/v2.x#old-signature-middleware-v1x at mock_app.js:32:5
+2016-11-17 21:10 +08:00: MongoError: failed to connect to server [localhost:27017] on first connect
+    at Pool.<anonymous> (/Users/raimonfuns/项目代码/mock/mock_server/node_modules/mongodb-core/lib/topologies/server.js:313:35)
+    at emitOne (events.js:96:13)
+    at Pool.emit (events.js:188:7)
+    at Connection.<anonymous> (/Users/raimonfuns/项目代码/mock/mock_server/node_modules/mongodb-core/lib/connection/pool.js:271:12)
+    at Connection.g (events.js:291:16)
+    at emitTwo (events.js:106:13)
+    at Connection.emit (events.js:191:7)
+    at Socket.<anonymous> (/Users/raimonfuns/项目代码/mock/mock_server/node_modules/mongodb-core/lib/connection/connection.js:165:49)
+    at Socket.g (events.js:291:16)
+    at emitOne (events.js:96:13)
+    at Socket.emit (events.js:188:7)
+    at emitErrorNT (net.js:1276:8)
+    at _combinedTickCallback (internal/process/next_tick.js:74:11)
+    at process._tickDomainCallback (internal/process/next_tick.js:122:9)
+2016-11-17 21:10 +08:00: Thu, 17 Nov 2016 13:10:03 GMT koa deprecated Support for generators will been removed in v3. See the documentation for examples of how to convert old middleware https://github.com/koajs/koa/tree/v2.x#old-signature-middleware-v1x at mock_app.js:31:5
+2016-11-17 21:10 +08:00: Thu, 17 Nov 2016 13:10:03 GMT koa deprecated Support for generators will been removed in v3. See the documentation for examples of how to convert old middleware https://github.com/koajs/koa/tree/v2.x#old-signature-middleware-v1x at mock_app.js:32:5
+2016-11-17 21:10 +08:00: MongoError: failed to connect to server [localhost:27017] on first connect
+    at Pool.<anonymous> (/Users/raimonfuns/项目代码/mock/mock_server/node_modules/mongodb-core/lib/topologies/server.js:313:35)
+    at emitOne (events.js:96:13)
+    at Pool.emit (events.js:188:7)
+    at Connection.<anonymous> (/Users/raimonfuns/项目代码/mock/mock_server/node_modules/mongodb-core/lib/connection/pool.js:271:12)
+    at Connection.g (events.js:291:16)
+    at emitTwo (events.js:106:13)
+    at Connection.emit (events.js:191:7)
+    at Socket.<anonymous> (/Users/raimonfuns/项目代码/mock/mock_server/node_modules/mongodb-core/lib/connection/connection.js:165:49)
+    at Socket.g (events.js:291:16)
+    at emitOne (events.js:96:13)
+    at Socket.emit (events.js:188:7)
+    at emitErrorNT (net.js:1276:8)
+    at _combinedTickCallback (internal/process/next_tick.js:74:11)
+    at process._tickDomainCallback (internal/process/next_tick.js:122:9)
+2016-11-17 21:10 +08:00: Thu, 17 Nov 2016 13:10:04 GMT koa deprecated Support for generators will been removed in v3. See the documentation for examples of how to convert old middleware https://github.com/koajs/koa/tree/v2.x#old-signature-middleware-v1x at mock_app.js:31:5
+2016-11-17 21:10 +08:00: Thu, 17 Nov 2016 13:10:04 GMT koa deprecated Support for generators will been removed in v3. See the documentation for examples of how to convert old middleware https://github.com/koajs/koa/tree/v2.x#old-signature-middleware-v1x at mock_app.js:32:5
+2016-11-17 21:10 +08:00: MongoError: failed to connect to server [localhost:27017] on first connect
+    at Pool.<anonymous> (/Users/raimonfuns/项目代码/mock/mock_server/node_modules/mongodb-core/lib/topologies/server.js:313:35)
+    at emitOne (events.js:96:13)
+    at Pool.emit (events.js:188:7)
+    at Connection.<anonymous> (/Users/raimonfuns/项目代码/mock/mock_server/node_modules/mongodb-core/lib/connection/pool.js:271:12)
+    at Connection.g (events.js:291:16)
+    at emitTwo (events.js:106:13)
+    at Connection.emit (events.js:191:7)
+    at Socket.<anonymous> (/Users/raimonfuns/项目代码/mock/mock_server/node_modules/mongodb-core/lib/connection/connection.js:165:49)
+    at Socket.g (events.js:291:16)
+    at emitOne (events.js:96:13)
+    at Socket.emit (events.js:188:7)
+    at emitErrorNT (net.js:1276:8)
+    at _combinedTickCallback (internal/process/next_tick.js:74:11)
+    at process._tickDomainCallback (internal/process/next_tick.js:122:9)
+2016-11-17 21:10 +08:00: Thu, 17 Nov 2016 13:10:07 GMT koa deprecated Support for generators will been removed in v3. See the documentation for examples of how to convert old middleware https://github.com/koajs/koa/tree/v2.x#old-signature-middleware-v1x at mock_app.js:31:5
+2016-11-17 21:10 +08:00: Thu, 17 Nov 2016 13:10:07 GMT koa deprecated Support for generators will been removed in v3. See the documentation for examples of how to convert old middleware https://github.com/koajs/koa/tree/v2.x#old-signature-middleware-v1x at mock_app.js:32:5
+2016-11-17 21:10 +08:00: MongoError: failed to connect to server [localhost:27017] on first connect
+    at Pool.<anonymous> (/Users/raimonfuns/项目代码/mock/mock_server/node_modules/mongodb-core/lib/topologies/server.js:313:35)
+    at emitOne (events.js:96:13)
+    at Pool.emit (events.js:188:7)
+    at Connection.<anonymous> (/Users/raimonfuns/项目代码/mock/mock_server/node_modules/mongodb-core/lib/connection/pool.js:271:12)
+    at Connection.g (events.js:291:16)
+    at emitTwo (events.js:106:13)
+    at Connection.emit (events.js:191:7)
+    at Socket.<anonymous> (/Users/raimonfuns/项目代码/mock/mock_server/node_modules/mongodb-core/lib/connection/connection.js:165:49)
+    at Socket.g (events.js:291:16)
+    at emitOne (events.js:96:13)
+    at Socket.emit (events.js:188:7)
+    at emitErrorNT (net.js:1276:8)
+    at _combinedTickCallback (internal/process/next_tick.js:74:11)
+    at process._tickDomainCallback (internal/process/next_tick.js:122:9)
+2016-11-17 21:10 +08:00: Thu, 17 Nov 2016 13:10:08 GMT koa deprecated Support for generators will been removed in v3. See the documentation for examples of how to convert old middleware https://github.com/koajs/koa/tree/v2.x#old-signature-middleware-v1x at mock_app.js:31:5
+2016-11-17 21:10 +08:00: Thu, 17 Nov 2016 13:10:08 GMT koa deprecated Support for generators will been removed in v3. See the documentation for examples of how to convert old middleware https://github.com/koajs/koa/tree/v2.x#old-signature-middleware-v1x at mock_app.js:32:5
+2016-11-17 21:10 +08:00: MongoError: failed to connect to server [localhost:27017] on first connect
+    at Pool.<anonymous> (/Users/raimonfuns/项目代码/mock/mock_server/node_modules/mongodb-core/lib/topologies/server.js:313:35)
+    at emitOne (events.js:96:13)
+    at Pool.emit (events.js:188:7)
+    at Connection.<anonymous> (/Users/raimonfuns/项目代码/mock/mock_server/node_modules/mongodb-core/lib/connection/pool.js:271:12)
+    at Connection.g (events.js:291:16)
+    at emitTwo (events.js:106:13)
+    at Connection.emit (events.js:191:7)
+    at Socket.<anonymous> (/Users/raimonfuns/项目代码/mock/mock_server/node_modules/mongodb-core/lib/connection/connection.js:165:49)
+    at Socket.g (events.js:291:16)
+    at emitOne (events.js:96:13)
+    at Socket.emit (events.js:188:7)
+    at emitErrorNT (net.js:1276:8)
+    at _combinedTickCallback (internal/process/next_tick.js:74:11)
+    at process._tickDomainCallback (internal/process/next_tick.js:122:9)
+2016-11-17 21:10 +08:00: Thu, 17 Nov 2016 13:10:10 GMT koa deprecated Support for generators will been removed in v3. See the documentation for examples of how to convert old middleware https://github.com/koajs/koa/tree/v2.x#old-signature-middleware-v1x at mock_app.js:31:5
+2016-11-17 21:10 +08:00: Thu, 17 Nov 2016 13:10:10 GMT koa deprecated Support for generators will been removed in v3. See the documentation for examples of how to convert old middleware https://github.com/koajs/koa/tree/v2.x#old-signature-middleware-v1x at mock_app.js:32:5
+2016-11-17 21:10 +08:00: MongoError: failed to connect to server [localhost:27017] on first connect
+    at Pool.<anonymous> (/Users/raimonfuns/项目代码/mock/mock_server/node_modules/mongodb-core/lib/topologies/server.js:313:35)
+    at emitOne (events.js:96:13)
+    at Pool.emit (events.js:188:7)
+    at Connection.<anonymous> (/Users/raimonfuns/项目代码/mock/mock_server/node_modules/mongodb-core/lib/connection/pool.js:271:12)
+    at Connection.g (events.js:291:16)
+    at emitTwo (events.js:106:13)
+    at Connection.emit (events.js:191:7)
+    at Socket.<anonymous> (/Users/raimonfuns/项目代码/mock/mock_server/node_modules/mongodb-core/lib/connection/connection.js:165:49)
+    at Socket.g (events.js:291:16)
+    at emitOne (events.js:96:13)
+    at Socket.emit (events.js:188:7)
+    at emitErrorNT (net.js:1276:8)
+    at _combinedTickCallback (internal/process/next_tick.js:74:11)
+    at process._tickDomainCallback (internal/process/next_tick.js:122:9)
+2016-11-17 21:10 +08:00: Thu, 17 Nov 2016 13:10:11 GMT koa deprecated Support for generators will been removed in v3. See the documentation for examples of how to convert old middleware https://github.com/koajs/koa/tree/v2.x#old-signature-middleware-v1x at mock_app.js:31:5
+2016-11-17 21:10 +08:00: Thu, 17 Nov 2016 13:10:11 GMT koa deprecated Support for generators will been removed in v3. See the documentation for examples of how to convert old middleware https://github.com/koajs/koa/tree/v2.x#old-signature-middleware-v1x at mock_app.js:32:5
+2016-11-17 21:10 +08:00: MongoError: failed to connect to server [localhost:27017] on first connect
+    at Pool.<anonymous> (/Users/raimonfuns/项目代码/mock/mock_server/node_modules/mongodb-core/lib/topologies/server.js:313:35)
+    at emitOne (events.js:96:13)
+    at Pool.emit (events.js:188:7)
+    at Connection.<anonymous> (/Users/raimonfuns/项目代码/mock/mock_server/node_modules/mongodb-core/lib/connection/pool.js:271:12)
+    at Connection.g (events.js:291:16)
+    at emitTwo (events.js:106:13)
+    at Connection.emit (events.js:191:7)
+    at Socket.<anonymous> (/Users/raimonfuns/项目代码/mock/mock_server/node_modules/mongodb-core/lib/connection/connection.js:165:49)
+    at Socket.g (events.js:291:16)
+    at emitOne (events.js:96:13)
+    at Socket.emit (events.js:188:7)
+    at emitErrorNT (net.js:1276:8)
+    at _combinedTickCallback (internal/process/next_tick.js:74:11)
+    at process._tickDomainCallback (internal/process/next_tick.js:122:9)
+2016-11-17 21:10 +08:00: Thu, 17 Nov 2016 13:10:13 GMT koa deprecated Support for generators will been removed in v3. See the documentation for examples of how to convert old middleware https://github.com/koajs/koa/tree/v2.x#old-signature-middleware-v1x at mock_app.js:31:5
+2016-11-17 21:10 +08:00: Thu, 17 Nov 2016 13:10:13 GMT koa deprecated Support for generators will been removed in v3. See the documentation for examples of how to convert old middleware https://github.com/koajs/koa/tree/v2.x#old-signature-middleware-v1x at mock_app.js:32:5
+2016-11-17 21:10 +08:00: MongoError: failed to connect to server [localhost:27017] on first connect
+    at Pool.<anonymous> (/Users/raimonfuns/项目代码/mock/mock_server/node_modules/mongodb-core/lib/topologies/server.js:313:35)
+    at emitOne (events.js:96:13)
+    at Pool.emit (events.js:188:7)
+    at Connection.<anonymous> (/Users/raimonfuns/项目代码/mock/mock_server/node_modules/mongodb-core/lib/connection/pool.js:271:12)
+    at Connection.g (events.js:291:16)
+    at emitTwo (events.js:106:13)
+    at Connection.emit (events.js:191:7)
+    at Socket.<anonymous> (/Users/raimonfuns/项目代码/mock/mock_server/node_modules/mongodb-core/lib/connection/connection.js:165:49)
+    at Socket.g (events.js:291:16)
+    at emitOne (events.js:96:13)
+    at Socket.emit (events.js:188:7)
+    at emitErrorNT (net.js:1276:8)
+    at _combinedTickCallback (internal/process/next_tick.js:74:11)
+    at process._tickDomainCallback (internal/process/next_tick.js:122:9)
+2016-11-17 21:10 +08:00: Thu, 17 Nov 2016 13:10:14 GMT koa deprecated Support for generators will been removed in v3. See the documentation for examples of how to convert old middleware https://github.com/koajs/koa/tree/v2.x#old-signature-middleware-v1x at mock_app.js:31:5
+2016-11-17 21:10 +08:00: Thu, 17 Nov 2016 13:10:14 GMT koa deprecated Support for generators will been removed in v3. See the documentation for examples of how to convert old middleware https://github.com/koajs/koa/tree/v2.x#old-signature-middleware-v1x at mock_app.js:32:5
+2016-11-17 21:10 +08:00: MongoError: failed to connect to server [localhost:27017] on first connect
+    at Pool.<anonymous> (/Users/raimonfuns/项目代码/mock/mock_server/node_modules/mongodb-core/lib/topologies/server.js:313:35)
+    at emitOne (events.js:96:13)
+    at Pool.emit (events.js:188:7)
+    at Connection.<anonymous> (/Users/raimonfuns/项目代码/mock/mock_server/node_modules/mongodb-core/lib/connection/pool.js:271:12)
+    at Connection.g (events.js:291:16)
+    at emitTwo (events.js:106:13)
+    at Connection.emit (events.js:191:7)
+    at Socket.<anonymous> (/Users/raimonfuns/项目代码/mock/mock_server/node_modules/mongodb-core/lib/connection/connection.js:165:49)
+    at Socket.g (events.js:291:16)
+    at emitOne (events.js:96:13)
+    at Socket.emit (events.js:188:7)
+    at emitErrorNT (net.js:1276:8)
+    at _combinedTickCallback (internal/process/next_tick.js:74:11)
+    at process._tickDomainCallback (internal/process/next_tick.js:122:9)
+2016-11-17 21:10 +08:00: Thu, 17 Nov 2016 13:10:16 GMT koa deprecated Support for generators will been removed in v3. See the documentation for examples of how to convert old middleware https://github.com/koajs/koa/tree/v2.x#old-signature-middleware-v1x at mock_app.js:31:5
+2016-11-17 21:10 +08:00: Thu, 17 Nov 2016 13:10:16 GMT koa deprecated Support for generators will been removed in v3. See the documentation for examples of how to convert old middleware https://github.com/koajs/koa/tree/v2.x#old-signature-middleware-v1x at mock_app.js:32:5
+2016-11-17 21:10 +08:00: MongoError: failed to connect to server [localhost:27017] on first connect
+    at Pool.<anonymous> (/Users/raimonfuns/项目代码/mock/mock_server/node_modules/mongodb-core/lib/topologies/server.js:313:35)
+    at emitOne (events.js:96:13)
+    at Pool.emit (events.js:188:7)
+    at Connection.<anonymous> (/Users/raimonfuns/项目代码/mock/mock_server/node_modules/mongodb-core/lib/connection/pool.js:271:12)
+    at Connection.g (events.js:291:16)
+    at emitTwo (events.js:106:13)
+    at Connection.emit (events.js:191:7)
+    at Socket.<anonymous> (/Users/raimonfuns/项目代码/mock/mock_server/node_modules/mongodb-core/lib/connection/connection.js:165:49)
+    at Socket.g (events.js:291:16)
+    at emitOne (events.js:96:13)
+    at Socket.emit (events.js:188:7)
+    at emitErrorNT (net.js:1276:8)
+    at _combinedTickCallback (internal/process/next_tick.js:74:11)
+    at process._tickDomainCallback (internal/process/next_tick.js:122:9)
+2016-11-17 21:10 +08:00: Thu, 17 Nov 2016 13:10:17 GMT koa deprecated Support for generators will been removed in v3. See the documentation for examples of how to convert old middleware https://github.com/koajs/koa/tree/v2.x#old-signature-middleware-v1x at mock_app.js:31:5
+2016-11-17 21:10 +08:00: Thu, 17 Nov 2016 13:10:17 GMT koa deprecated Support for generators will been removed in v3. See the documentation for examples of how to convert old middleware https://github.com/koajs/koa/tree/v2.x#old-signature-middleware-v1x at mock_app.js:32:5
+2016-11-17 21:10 +08:00: MongoError: failed to connect to server [localhost:27017] on first connect
+    at Pool.<anonymous> (/Users/raimonfuns/项目代码/mock/mock_server/node_modules/mongodb-core/lib/topologies/server.js:313:35)
+    at emitOne (events.js:96:13)
+    at Pool.emit (events.js:188:7)
+    at Connection.<anonymous> (/Users/raimonfuns/项目代码/mock/mock_server/node_modules/mongodb-core/lib/connection/pool.js:271:12)
+    at Connection.g (events.js:291:16)
+    at emitTwo (events.js:106:13)
+    at Connection.emit (events.js:191:7)
+    at Socket.<anonymous> (/Users/raimonfuns/项目代码/mock/mock_server/node_modules/mongodb-core/lib/connection/connection.js:165:49)
+    at Socket.g (events.js:291:16)
+    at emitOne (events.js:96:13)
+    at Socket.emit (events.js:188:7)
+    at emitErrorNT (net.js:1276:8)
+    at _combinedTickCallback (internal/process/next_tick.js:74:11)
+    at process._tickDomainCallback (internal/process/next_tick.js:122:9)
+2016-11-17 21:10 +08:00: Thu, 17 Nov 2016 13:10:18 GMT koa deprecated Support for generators will been removed in v3. See the documentation for examples of how to convert old middleware https://github.com/koajs/koa/tree/v2.x#old-signature-middleware-v1x at mock_app.js:31:5
+2016-11-17 21:10 +08:00: Thu, 17 Nov 2016 13:10:18 GMT koa deprecated Support for generators will been removed in v3. See the documentation for examples of how to convert old middleware https://github.com/koajs/koa/tree/v2.x#old-signature-middleware-v1x at mock_app.js:32:5
+2016-11-17 21:10 +08:00: MongoError: failed to connect to server [localhost:27017] on first connect
+    at Pool.<anonymous> (/Users/raimonfuns/项目代码/mock/mock_server/node_modules/mongodb-core/lib/topologies/server.js:313:35)
+    at emitOne (events.js:96:13)
+    at Pool.emit (events.js:188:7)
+    at Connection.<anonymous> (/Users/raimonfuns/项目代码/mock/mock_server/node_modules/mongodb-core/lib/connection/pool.js:271:12)
+    at Connection.g (events.js:291:16)
+    at emitTwo (events.js:106:13)
+    at Connection.emit (events.js:191:7)
+    at Socket.<anonymous> (/Users/raimonfuns/项目代码/mock/mock_server/node_modules/mongodb-core/lib/connection/connection.js:165:49)
+    at Socket.g (events.js:291:16)
+    at emitOne (events.js:96:13)
+    at Socket.emit (events.js:188:7)
+    at emitErrorNT (net.js:1276:8)
+    at _combinedTickCallback (internal/process/next_tick.js:74:11)
+    at process._tickDomainCallback (internal/process/next_tick.js:122:9)
+2016-11-17 21:10 +08:00: Thu, 17 Nov 2016 13:10:20 GMT koa deprecated Support for generators will been removed in v3. See the documentation for examples of how to convert old middleware https://github.com/koajs/koa/tree/v2.x#old-signature-middleware-v1x at mock_app.js:31:5
+2016-11-17 21:10 +08:00: Thu, 17 Nov 2016 13:10:20 GMT koa deprecated Support for generators will been removed in v3. See the documentation for examples of how to convert old middleware https://github.com/koajs/koa/tree/v2.x#old-signature-middleware-v1x at mock_app.js:32:5
+2016-11-17 21:10 +08:00: MongoError: failed to connect to server [localhost:27017] on first connect
+    at Pool.<anonymous> (/Users/raimonfuns/项目代码/mock/mock_server/node_modules/mongodb-core/lib/topologies/server.js:313:35)
+    at emitOne (events.js:96:13)
+    at Pool.emit (events.js:188:7)
+    at Connection.<anonymous> (/Users/raimonfuns/项目代码/mock/mock_server/node_modules/mongodb-core/lib/connection/pool.js:271:12)
+    at Connection.g (events.js:291:16)
+    at emitTwo (events.js:106:13)
+    at Connection.emit (events.js:191:7)
+    at Socket.<anonymous> (/Users/raimonfuns/项目代码/mock/mock_server/node_modules/mongodb-core/lib/connection/connection.js:165:49)
+    at Socket.g (events.js:291:16)
+    at emitOne (events.js:96:13)
+    at Socket.emit (events.js:188:7)
+    at emitErrorNT (net.js:1276:8)
+    at _combinedTickCallback (internal/process/next_tick.js:74:11)
+    at process._tickDomainCallback (internal/process/next_tick.js:122:9)
+2016-11-17 21:10 +08:00: Thu, 17 Nov 2016 13:10:21 GMT koa deprecated Support for generators will been removed in v3. See the documentation for examples of how to convert old middleware https://github.com/koajs/koa/tree/v2.x#old-signature-middleware-v1x at mock_app.js:31:5
+2016-11-17 21:10 +08:00: Thu, 17 Nov 2016 13:10:21 GMT koa deprecated Support for generators will been removed in v3. See the documentation for examples of how to convert old middleware https://github.com/koajs/koa/tree/v2.x#old-signature-middleware-v1x at mock_app.js:32:5
+2016-11-17 21:10 +08:00: MongoError: failed to connect to server [localhost:27017] on first connect
+    at Pool.<anonymous> (/Users/raimonfuns/项目代码/mock/mock_server/node_modules/mongodb-core/lib/topologies/server.js:313:35)
+    at emitOne (events.js:96:13)
+    at Pool.emit (events.js:188:7)
+    at Connection.<anonymous> (/Users/raimonfuns/项目代码/mock/mock_server/node_modules/mongodb-core/lib/connection/pool.js:271:12)
+    at Connection.g (events.js:291:16)
+    at emitTwo (events.js:106:13)
+    at Connection.emit (events.js:191:7)
+    at Socket.<anonymous> (/Users/raimonfuns/项目代码/mock/mock_server/node_modules/mongodb-core/lib/connection/connection.js:165:49)
+    at Socket.g (events.js:291:16)
+    at emitOne (events.js:96:13)
+    at Socket.emit (events.js:188:7)
+    at emitErrorNT (net.js:1276:8)
+    at _combinedTickCallback (internal/process/next_tick.js:74:11)
+    at process._tickDomainCallback (internal/process/next_tick.js:122:9)
+2016-11-17 21:10 +08:00: Thu, 17 Nov 2016 13:10:23 GMT koa deprecated Support for generators will been removed in v3. See the documentation for examples of how to convert old middleware https://github.com/koajs/koa/tree/v2.x#old-signature-middleware-v1x at mock_app.js:31:5
+2016-11-17 21:10 +08:00: Thu, 17 Nov 2016 13:10:23 GMT koa deprecated Support for generators will been removed in v3. See the documentation for examples of how to convert old middleware https://github.com/koajs/koa/tree/v2.x#old-signature-middleware-v1x at mock_app.js:32:5
+2016-11-17 21:10 +08:00: MongoError: failed to connect to server [localhost:27017] on first connect
+    at Pool.<anonymous> (/Users/raimonfuns/项目代码/mock/mock_server/node_modules/mongodb-core/lib/topologies/server.js:313:35)
+    at emitOne (events.js:96:13)
+    at Pool.emit (events.js:188:7)
+    at Connection.<anonymous> (/Users/raimonfuns/项目代码/mock/mock_server/node_modules/mongodb-core/lib/connection/pool.js:271:12)
+    at Connection.g (events.js:291:16)
+    at emitTwo (events.js:106:13)
+    at Connection.emit (events.js:191:7)
+    at Socket.<anonymous> (/Users/raimonfuns/项目代码/mock/mock_server/node_modules/mongodb-core/lib/connection/connection.js:165:49)
+    at Socket.g (events.js:291:16)
+    at emitOne (events.js:96:13)
+    at Socket.emit (events.js:188:7)
+    at emitErrorNT (net.js:1276:8)
+    at _combinedTickCallback (internal/process/next_tick.js:74:11)
+    at process._tickDomainCallback (internal/process/next_tick.js:122:9)

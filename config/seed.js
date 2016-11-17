@@ -14,71 +14,26 @@ module.exports = function () {
 		const categoryCount = await Category.count();
 		if(categoryCount === 0){
 			await Category.create({
-	 			name: '分类001'
+	 			name: '决战双11'
 	 		}, {
-	 			name: '分类002'
-	 		}, {
-	 			name: '分类003'
-	 		}, {
-	 			name: '分类004'
-	 		}, {
-	 			name: '分类005'
-	 		}, {
-	 			name: '分类006'
-	 		}, {
-	 			name: '分类007'
-	 		}, {
-	 			name: '分类008'
-	 		}, {
-	 			name: '分类009'
-	 		}, {
-	 			name: '分类010'
-	 		}, {
-	 			name: '分类011'
-	 		}, {
-	 			name: '分类012'
-	 		}, {
-	 			name: '分类013'
-	 		}, {
-	 			name: '分类014'
-	 		}, {
-	 			name: '分类015'
+	 			name: '翻拍手气王'
 	 		});
 		}
 		const categoryList = await Category.find();
 		const apiCount = await Api.count();
-		console.log('apiCount', apiCount)
 		if(apiCount === 0){
 			await Api.create({
-	 			name: '测试接口001',
-	 			path: '/api/test',
+	 			name: '初始化接口',
+	 			path: '/service/act/viphd/1611doubleeleven/indexInfo',
 				method: 'get',
-				json: '{"name": "admin"}',
+				response: '{"result":true,"code":0,"desc":null,"data":{"payUrl2":["http://vip.yy.com/vip/vmall2/hdplatform/fromProductId/602254","http://vip.yy.com/vip/vmall2/hdplatform/fromProductId/602256"],"drawGiftGroupId2":"20161173f92e972","payUrls1":["http://vip.yy.com/vip/vmall2/hdplatform/fromProductId/602246","http://vip.yy.com/vip/vmall2/hdplatform/fromProductId/602258","http://vip.yy.com/vip/vmall2/hdplatform/fromProductId/602248","http://vip.yy.com/vip/vmall2/hdplatform/fromProductId/602250"],"drawGiftGroupId3":"20161173f92e625","hdTime":{"startDate":1478685000000,"endDate":1479808800000,"over":false,"startDateStr":"2016-11-09 17:50:00","endDateStr":"2016-11-22 18:00:00"},"drawGiftGroupId1":"20161173f92e240","payUrl3":["http://vip.yy.com/vip/vmall2/hdplatform/fromProductId/602260","http://vip.yy.com/vip/vmall2/hdplatform/fromProductId/602262","http://vip.yy.com/vip/vmall2/hdplatform/fromProductId/602264"],"flag1":1,"hdIndex":"20161173f92e","flag2":1}}',
 				categoryId: categoryList[0]._id
 	 		}, {
-	 			name: '测试接口002',
-	 			path: '/api/test',
+	 			name: '初始化接口',
+	 			path: '/service/act/1611poker/indexinfo',
 				method: 'get',
-				json: '{"name": "admin"}',
-				categoryId: categoryList[0]._id
-	 		}, {
-	 			name: '测试接口003',
-	 			path: '/api/test',
-				method: 'get',
-				json: '{"name": "admin"}',
+				response: '{"result":false,"code":0,"desc":null,"data":{"actDate":{"startDate":1479295200000,"endDate":1481104800000,"over":false,"startDateStr":"2016-11-16 19:20:00","endDateStr":"2016-12-07 18:00:00"},"cardsGroup":[],"leftCount":0}}',
 				categoryId: categoryList[1]._id
-	 		}, {
-	 			name: '测试接口004',
-	 			path: '/api/test',
-				method: 'get',
-				json: '{"name": "admin"}',
-				categoryId: categoryList[1]._id
-	 		}, {
-	 			name: '分类接口005',
-	 			path: '/api/test',
-				method: 'get',
-				json: '{"name": "admin"}',
-				categoryId: categoryList[2]._id
 	 		});
 		}
 

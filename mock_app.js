@@ -1,3 +1,5 @@
+'use strict'
+
 const Koa = require('koa');
 const app = new Koa();
 const views = require('koa-views');
@@ -13,7 +15,7 @@ const path = require('path')
 const fs = require('fs')
 
 // 连接数据库
-mongoose.connect('mongodb://localhost/test');
+mongoose.connect('mongodb://localhost/mock');
 require(path.join(__dirname, 'models/api.model'));
 
 //mongoose promise 风格

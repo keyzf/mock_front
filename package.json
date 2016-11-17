@@ -3,11 +3,12 @@
   "version": "0.1.0",
   "private": true,
   "scripts": {
-    "start": "./node_modules/.bin/nodemon bin/run",
+    "start": "./node_modules/.bin/nodemon bin/run --ignore 'watch/index.js'",
     "start_mock": "./node_modules/.bin/nodemon bin/mock/run",
     "start_seed": "INITDATA=true ./node_modules/.bin/nodemon bin/run",
     "koa": "./node_modules/.bin/runkoa bin/www",
-    "pm2": "pm2 start bin/run ",
+    "pm2": "NODE_ENV=production pm2 start bin/run",
+    "pm2_mock": "NODE_ENV=production pm2 start bin/mock/run",
     "test": "mocha -r babel-register --recursive"
   },
   "dependencies": {

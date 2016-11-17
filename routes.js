@@ -1,3 +1,5 @@
+'use strict'
+
 const router = require('koa-router')();
 const api = require('./controller/api')
 const category = require('./controller/category')

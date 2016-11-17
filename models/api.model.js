@@ -16,7 +16,7 @@ let ApiSchema = new Schema({
 		type: String,
 		default: ''
 	},
-	json: { 
+	response: { 
 		type: String,
 		default: ''
 	},

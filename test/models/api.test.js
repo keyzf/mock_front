@@ -83,7 +83,7 @@ describe('test/api/api.test.js', () => {
 		it('should return api list', (done) => {
 	    request.get('/api/getApiListByCategoryId')
 	    	.send({
-	    		mockCategoryId: mockCategoryId
+	    		categoryId: mockCategoryId
 	    	})
 	    	.expect(200)
 	    	.expect('Content-Type', /json/)

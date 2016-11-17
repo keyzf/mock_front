@@ -1,26 +1,47 @@
+'use strict'
+
 const mongoose = require('mongoose');
 const Api = mongoose.model('Api');
+const util = require('../../util')
 
 exports.addApi = async (ctx, next) => {
 	const result = await Api.create(ctx.request.body)
+	if (!result) {
+		ctx.body = {success: false}	
+		return
+	}
 	ctx.body = {success: true, api_id: result._id}
+	util.relauchRouter()
 }
 
 exports.getApi = async (ctx) => {
 	const id = ctx.params.id
 	const api = await Api.findOne({_id: id}).exec()
+	if (!api) {
+		ctx.body = {success: false}	
+		return
+	}
 	ctx.body = {data: api}
 }
 
 exports.updateApi = async (ctx) => {
 	const id = ctx.params.id
 	const api = await Api.findByIdAndUpdate(id, ctx.request.body, {new: true}).exec()
+	if (!api) {
+		ctx.body = {success: false}	
+		return
+	}
 	ctx.body = {success: true, api_id: api._id}
+	util.relauchRouter()
 }
 
 exports.destroy = async (ctx) => {
 	const id = ctx.params.id
 	const api = await Api.remove({_id: id})
+	if (!api) {
+		ctx.body = {success: false}	
+		return
+	}
 	ctx.body = {success: true}
 }
 
@@ -37,10 +58,14 @@ exports.getApiList = async (ctx) => {
 
 	const ApiList = await Api.find()
 																		.skip(startRow)
-																		.sort({ create_time: -1 })
+																		.sort({ createdAt: -1 })
 																		.limit(itemsPerPage)
 																		.exec()
   const count = await Api.count()
+  if (!ApiList) {
+		ctx.body = {success: false}	
+		return
+	}
   ctx.body = {data: ApiList, count: count}
 }
 
@@ -50,7 +75,7 @@ exports.getApiListByCategoryId = async (ctx) => {
 	let startRow = (currentPage - 1) * itemsPerPage
 	let categoryId = ctx.query.categoryId
 
-	let sortName = String(ctx.query.sortName) || "publish_time"
+	let sortName = String(ctx.query.sortName) || "createdAt"
 	let sortOrder = ctx.query.sortOrder
 	if(sortOrder === 'false'){
 		sortName = "-" + sortName;
@@ -58,11 +83,14 @@ exports.getApiListByCategoryId = async (ctx) => {
 
 	const ApiList = await Api.find({categoryId: categoryId})
 																		.skip(startRow)
-																		.sort({ create_time: -1 })
+																		.sort({ createdAt: -1 })
 																		.limit(itemsPerPage)
-																		.exec()
-	console.log(ApiList)
+																		.exec()				
   const count = await Api.count()
+  if (!ApiList) {
+		ctx.body = {success: false}	
+		return
+	}
   ctx.body = {data: ApiList, count: count}
 }
 

@@ -1,3 +1,5 @@
+'use strict'
+
 const router = module.exports = require('koa-router')()
 const controller = require('./category.controller')
 
