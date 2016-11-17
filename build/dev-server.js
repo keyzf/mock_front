@@ -11,7 +11,8 @@ var webpackConfig = process.env.NODE_ENV === 'testing'
   : require('./webpack.dev.conf')
 
 // default port where dev server listens for incoming traffic
-var port = process.env.PORT || config.dev.port
+// var port = process.env.PORT || config.dev.port
+var port = 3000
 // Define HTTP proxies to your custom API backend
 // https://github.com/chimurai/http-proxy-middleware
 var proxyTable = config.dev.proxyTable
@@ -64,7 +65,7 @@ module.exports = app.listen(port, function (err) {
     console.log(err)
     return
   }
-  var uri = 'http://localhost:' + port
+  var uri = 'http://0.0.0.0:' + port
   console.log('Listening at ' + uri + '\n')
 
   // when env is testing, don't need open it

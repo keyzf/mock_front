@@ -1,7 +1,9 @@
 <template>
 	<div>
 		<el-menu default-active="1" class="menu" mode="horizontal">
-		  <el-menu-item index="1" class="menu-item">接口管理平台</el-menu-item>
+			<router-link :to="'/'">
+				<el-menu-item index="1" class="menu-item">接口管理平台</el-menu-item>
+			</router-link>
 		  	
 		  <!-- <el-submenu index="2">
 		    <template slot="title">我的工作台</template>
@@ -22,5 +24,8 @@
 	color: #fff;
 	font-size: 18px;
 	padding-left: 40px;
+}
+.el-menu--horizontal .el-menu-item:hover {
+	background: #00A0FA
 }
 </style>

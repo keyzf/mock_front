@@ -1,5 +1,6 @@
 import util from '../util'
 import moment from 'moment'
+import config from '../config'
 
 export const getCategoryList = ({ commit }, page) => {
   util.getCategoryList(page).then((res) => {
@@ -50,6 +51,8 @@ export const updateApi = ({ commit }, api) => {
   return new Promise((resolve, reject) => {
     util.updateApi(api).then(() => {
       resolve()
+    }, (res) => {
+      reject(false)
     })
   })
 }
@@ -60,4 +63,25 @@ export const selectApi = ({ commit }, api) => {
 
 export const changeStatus = ({ commit }, status) => {
     commit('changeStatus', status)
+}
+
+export const testApi = ({ commit }, path) => {
+  return new Promise((resolve, reject) => {
+    setTimeout(() => {
+      util.testApi(path).then((res) => {
+        commit('testApi', {url: `${config.api_root}${path}`, response: res.data})
+        resolve()
+      }, (res) => {
+        reject(false)
+      })
+    }, 2000)
+  })
+}
+
+export const setFetching = ({ commit }, status) => {
+  commit('setFetching', status)
+}
+
+export const setTesting = ({ commit }, status) => {
+  commit('setTesting', status)
 }

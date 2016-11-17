@@ -7,6 +7,8 @@
     </el-row>
     <el-table
       :data="categoryList"
+      v-loading="fetching"
+      element-loading-text="拼命加载中"
       border
       style="width: 100%">
       <el-table-column prop="name" label="类别" width="300">
@@ -34,7 +36,8 @@ import { mapGetters } from 'vuex'
 export default {
   computed: {
     ...mapGetters({
-      categoryList: 'getCategoryList'
+      categoryList: 'getCategoryList',
+      fetching: 'getFetching'
     })
   },
   methods: {
@@ -45,13 +48,13 @@ export default {
       }).then(({ value }) => {
         this.$store.dispatch('addCategory', {name: value}).then(() => {
           this.$store.dispatch('getCategoryList')
-          this.$message({
+          this.$notify({
             type: 'success',
             message: '添加成功'
           });
         })
       }).catch(() => {
-        this.$message({
+        this.$notify({
           type: 'info',
           message: '取消输入'
         });       
@@ -62,12 +65,12 @@ export default {
         inputPattern: /[(\u4e00-\u9fa5)0-9a-zA-Z\_\s@]+/,
         inputErrorMessage: '名称格式不正确'
       }).then(({ value }) => {
-        this.$message({
+        this.$notify({
           type: 'success',
           message: '添加成功'
         });
       }).catch(() => {
-        this.$message({
+        this.$notify({
           type: 'info',
           message: '取消输入'
         });       
@@ -79,29 +82,26 @@ export default {
       }).then(() => {
         this.$store.dispatch('deleteCategory', row._id).then(() => {
           this.$store.dispatch('getCategoryList')
-          this.$message({
+          this.$notify({
             type: 'success',
-            message: '输出成功'
+            message: '删除成功'
           });
         })
       }).catch(() => {
-        this.$message({
+        this.$notify({
           type: 'info',
           message: '已取消删除'
         });          
       });
-    },
-    enter (row) {
-      console.log('我要加入这个目录下面:', row.name)
     }
   }
 }
 </script>
 
-<style>
+<style scoped>
 .container {
   width: 1002px;
-  margin: 0 auto;
+  margin: 10px auto 0;
 }  
 .el-row {
   margin-bottom: 10px;

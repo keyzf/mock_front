@@ -17,8 +17,8 @@ exports.updateApi = function (api) {
 	return Vue.http.put('http://localhost:3000/api/' + api._id + '/updateApi', api)
 }
 
-exports.getApiList = function () {
-	return Vue.http.get('http://localhost:3000/api/getApiList')
+exports.getApiList = function (id) {
+	return Vue.http.get(`http://localhost:3000/api/getApiListByCategoryId?categoryId=${id}`)
 }
 
 // Category
@@ -39,5 +39,10 @@ exports.updateCategory = function (id, category) {
 }
 
 exports.getCategoryList = function (page) {
-	return Vue.http.get(`http://localhost:3000/category/getCategoryList?itemsPerPage=10&currentPage=${page}`)
+	return Vue.http.get(`http://localhost:3000/category/getCategoryList?itemsPerPage=20&currentPage=${page}`)
+}
+
+// test
+exports.testApi = function (path) {
+	return Vue.http.get(`http://localhost:4000${path}`)
 }

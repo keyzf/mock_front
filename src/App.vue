@@ -1,7 +1,9 @@
 <template>
   <div id="app">
     <NavMenu></NavMenu>
-    <router-view></router-view>
+    <transition>
+      <router-view></router-view>
+    </transition>
   </div>
 </template>
 
@@ -20,5 +22,11 @@ export default {
 * {
   margin: 0;
   padding: 0;
+}
+.fade-enter-active, .fade-leave-active {
+  transition: opacity 5s
+}
+.fade-enter, .fade-leave-active {
+  opacity: 0
 }
 </style>

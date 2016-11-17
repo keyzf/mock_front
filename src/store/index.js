@@ -10,8 +10,10 @@ const state = {
 	category: {list: [], count: 0},
 	apiList: [],
 	currentApi: {},
-	newApi: {},
-	status: 'update'
+	status: '',
+	test: {url: '', response: null},
+	fetching: false,
+	testing: false
 }
 
 const store = new Vuex.Store({

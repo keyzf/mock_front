@@ -1,6 +1,8 @@
 <template>
 	<div>	
-    <el-menu mode="vertical" default-active="0" class="el-menu-vertical-demo">
+    <el-menu mode="vertical" 
+      default-active="0" 
+      class="el-menu-vertical-demo">
       <el-menu-item-group title="接口">
         <div @click="select(item)" v-for="(item, index) in apiList">
           <el-menu-item  
@@ -10,7 +12,7 @@
           </el-menu-item>
         </div>
       </el-menu-item-group>
-      <el-button class="add_btn" type="primary" size="mini" @click="add">添加</el-button>
+      <el-button class="add_btn" type="primary" size="small" @click="add">添加</el-button>
     </el-menu>
 	</div>
 </template>
@@ -21,30 +23,37 @@ import { mapGetters } from 'vuex'
 export default {
   computed: {
     ...mapGetters({
-      apiList: 'getApiList'
+      apiList: 'getApiList',
+      fetching: 'getFetching'
     })
-  },
-  mounted () {
-    this.$store.dispatch('getApiList', this.$route.params.id)
   },
   methods: {
     select (item) {
-      console.log(item)
       this.$store.dispatch('selectApi', item)
       this.$store.dispatch('changeStatus', 'update')
     },
     del (item) {
-      this.$store.dispatch('deleteApi', item._id).then(() => {
-        this.$store.dispatch('getApiList')
-        this.$message({
-          type: 'success',
-          message: '删除成功'
-        });
-      })
+      this.$confirm('此操作将永久删除该接口(' + item.name + '), 是否继续?', '提示', {
+        type: 'warning'
+      }).then(() => {
+        this.$store.dispatch('deleteApi', item._id).then(() => {
+          this.$store.dispatch('getApiList')
+          this.$notify({
+            type: 'success',
+            message: '删除成功'
+          });
+        })
+      }).catch(() => {
+        this.$notify({
+          type: 'info',
+          message: '已取消删除'
+        });          
+      });
     },
     add () {
-      // {name: '', path: '', method: 'get', json: ''}
-      this.$store.dispatch('selectApi', {name: '测试007', path: '/api/get', method: 'get', json: '{"name": "admin"}'})
+      
+      this.$store.dispatch('selectApi', {name: '', path: '', method: 'get', json: ''})
+      // this.$store.dispatch('selectApi', {name: '测试007', path: '/api/get', method: 'get', response: '{"name": "admin"}'})
       this.$store.dispatch('changeStatus', 'new')
     }
   }
@@ -58,7 +67,7 @@ export default {
   right: 12px;
 }
 .el-menu-item-group__title {
-  padding-bottom: 5px;
+  padding-bottom: 10px;
 }
 .el-icon-delete {
   display: none;
@@ -68,5 +77,8 @@ export default {
 }
 .el-menu-item:hover .el-icon-delete {
   display: block;
+}
+.el-menu-item-group {
+  min-height: 800px;
 }
 </style>

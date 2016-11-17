@@ -3,6 +3,7 @@
 		<el-pagination
 	    layout="prev, pager, next"
 	    :total="categoryCount"
+      :page-size="20"
 	    @current-change="handleCurrentChange">
 	  </el-pagination>
 	</div>
@@ -30,7 +31,10 @@ export default {
 }	
 </script>
 
-<style>
+<style scoped>
+.container {
+  margin-top: 10px;
+}
 .el-pagination {
 	text-align: center;
 }	

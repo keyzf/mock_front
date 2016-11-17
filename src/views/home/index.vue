@@ -12,6 +12,7 @@ import Pagination from './Pagination'
 import { mapGetters } from 'vuex'
 
 export default{
+  name: 'home',
   computed: {
     ...mapGetters({
       count: 'getCount'

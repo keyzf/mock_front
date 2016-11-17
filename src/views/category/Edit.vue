@@ -1,15 +1,15 @@
 <template>
 	<div class="container">
-    <el-col :span="20">
-    	<el-form ref="form" label-width="80px">
-			  <el-form-item label="接口名称">
+    <el-col :span="22">
+    	<el-form ref="currentApi" label-width="100px" :model="currentApi" :rules="apiRules">
+			  <el-form-item label="接口名称" prop="name">
 			    <el-input v-model="currentApi.name" placeholder="请输入接口名称"></el-input>
 			  </el-form-item>
-			  <el-form-item label="接口路径">
+			  <el-form-item label="接口路径" prop="path">
 			    <el-input v-model="currentApi.path" placeholder="如：/api/get"></el-input>
 			  </el-form-item>
-			  <el-col :span="6">
-			  	<el-form-item label="请求方法">
+			  <el-col :span="8">
+			  	<el-form-item label="请求方法" prop="method">
 				    <el-select placeholder="请求方法" v-model="currentApi.method">
 				      <el-option label="GET" value="get"></el-option>
 				      <el-option label="POST" value="post"></el-option>
@@ -17,12 +17,12 @@
 				  </el-form-item>
 			  </el-col>
 			  <el-col :span="24">
-				  <el-form-item label="json数据">
+				  <el-form-item label="json数据" prop="response">
 				  	<el-input
 						  type="textarea"
-						  :autosize="{ minRows: 15, maxRows: 10}"
+						  :autosize="{ minRows: 25, maxRows: 15}"
 						  placeholder="请输入内容"
-						  v-model="currentApi.json">
+						  v-model="currentApi.response">
 						</el-input>
 				  </el-form-item>
 				</el-col>
@@ -30,7 +30,7 @@
 				  <el-form-item label="">
 				  	<el-button type="success" @click="update" v-if="status == 'update'">保存</el-button>
 				  	<el-button type="success" @click="add" v-if="status == 'new'">添加</el-button>
-				  	<el-button type="primary" @click="test">测试</el-button>
+				  	<el-button type="primary" @click="test" v-if="status == 'update'">测试地址</el-button>
 				  </el-form-item>
 				</el-col>
 			</el-form>
@@ -40,52 +40,118 @@
 
 <script>
 import { mapGetters } from 'vuex'
+import JSONLint from 'json-lint'
+import config from '../../config'
 
 export default {
   computed: {
     ...mapGetters({
       currentApi: 'getCurrentApi',
-      status: 'getStatus'
+      status: 'getStatus',
+      fetching: 'getFetching'
     })
   },
 	data () {
-    return {
-     
+    let validateResponse = (rule, value, callback) => {
+      let lint = JSONLint(value)
+      if (lint.error) {
+        callback(new Error('JSON格式错误'));
+      } else {
+        callback();
+      }
     }
-  },
-  ready () {
-    this.$store.dispatch('getApiList', this.$route.params.id)
+    return {
+      apiRules: {
+        name: [
+          { required: true, message: '请输入接口名称', trigger: 'blur' },
+        ],
+        path: [
+          { required: true, message: '请输入接口路径', trigger: 'blur' },
+        ],
+        method: [
+          { required: true, message: '请输入请求方法', trigger: 'blur' },
+        ],
+        response: [
+          { required: true, message: '请输入json数据', trigger: 'blur' },
+          { validator: validateResponse, trigger: 'blur' }
+        ]
+      }
+    };
   },
   methods: {
   	add () {
-      this.$store.dispatch('addApi', this.currentApi).then(() => {
-        this.$store.dispatch('getApiList')
-        this.$message({
-          type: 'success',
-          message: '添加成功'
-        });
+      this.$refs.currentApi.validate((valid) => {
+        if (valid) {
+          this.$store.dispatch('addApi', this.currentApi).then(() => {
+            this.$store.dispatch('getApiList')
+            this.$notify({
+              title: '成功',
+              message: '添加成功',
+              type: 'success'
+            })
+          })
+          .catch(() => {
+            this.$notify.error({
+              title: '错误',
+              message: '接口出错了'
+            })
+          })
+        } else {
+          console.log('error submit!!');
+          return false;
+        }
       })
   	},
     update () {
-    	this.$store.dispatch('updateApi', this.currentApi).then(() => {
-        this.$store.dispatch('getApiList')
-        this.$message({
-          type: 'success',
-          message: '添加成功'
-        });
+      this.$refs.currentApi.validate((valid) => {
+        if (valid) {
+          this.$store.dispatch('updateApi', this.currentApi)
+          .then(() => {
+            this.$store.dispatch('getApiList', this.$route.params.id)
+            this.$notify({
+              title: '成功',
+              message: '保存成功',
+              type: 'success'
+            })
+          })
+          .catch(() => {
+            this.$notify.error({
+              title: '错误',
+              message: '接口出错了'
+            })
+          })
+        } else {
+          console.log('error submit!!');
+          return false;
+        }
       })
     },
     test () {
-    	console.log('我要测试')
+      window.open(config.api_root + this.currentApi.path)
+      // console.log('test')
+      // this.$store.dispatch('setTesting', true)
+      // this.$store.dispatch('testApi', this.currentApi.path)
+      // .then(() => {
+      //   console.log('ererererere')
+      //   this.$store.dispatch('setTesting', false)
+      //   this.$notify({
+      //     title: '成功',
+      //     message: '请求成功',
+      //     type: 'success'
+      //   })
+      // })
+      // .catch(() => {
+      //   this.$notify.error({
+      //     title: '错误',
+      //     message: '接口出错了'
+      //   })
+      // })
     }
   }
 }	
 </script>
 
-<style>
-.container {
-	padding-top: 40px;
-}
+<style scoped>
 .input_json {
 	margin-left: 80px;	
 }
