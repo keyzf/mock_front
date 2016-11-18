@@ -30,7 +30,7 @@
 				  <el-form-item label="">
 				  	<el-button type="success" @click="update" v-if="status == 'update'">保存</el-button>
 				  	<el-button type="success" @click="add" v-if="status == 'new'">添加</el-button>
-				  	<el-button type="primary" @click="test" v-if="status == 'update'">查看接口</el-button>
+				  	<el-button type="primary" @click="test" v-if="status == 'update' && currentApi.method != 'post'">查看接口</el-button>
 				  </el-form-item>
 				</el-col>
 			</el-form>
