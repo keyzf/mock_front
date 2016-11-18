@@ -11,7 +11,7 @@
     "e2e": "node test/e2e/runner.js",
     "test": "npm run unit && npm run e2e",
     "lint": "eslint --ext .js,.vue src test/unit/specs test/e2e/specs",
-    "pm2": "NODE_ENV=production pm2 start build/dev-server.js"
+    "pm2": "NODE_ENV=production pm2 start build/dev-server.js --name mock_front"
   },
   "dependencies": {
     "element-ui": "^1.0.0",

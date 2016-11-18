@@ -1,5 +1,4 @@
 import Vue from 'vue'
-import {server_root} from './config'
 
 // Api
 exports.getApi = function (id) {
