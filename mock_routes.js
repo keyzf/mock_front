@@ -13,7 +13,7 @@ function handleRequest() {
 	  	ctx.body = "接口不存在"
 	  	return false
 	  }
-	  ctx.body = api[0]
+	  ctx.body = JSON.parse(api[0].response)
 	}
 }
 
