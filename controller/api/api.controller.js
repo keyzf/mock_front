@@ -2,7 +2,6 @@
 
 const mongoose = require('mongoose');
 const Api = mongoose.model('Api');
-const util = require('../../util')
 
 exports.addApi = async (ctx, next) => {
 	const result = await Api.create(ctx.request.body)
@@ -11,7 +10,6 @@ exports.addApi = async (ctx, next) => {
 		return
 	}
 	ctx.body = {success: true, api_id: result._id}
-	util.relauchRouter()
 }
 
 exports.getApi = async (ctx) => {
@@ -32,7 +30,6 @@ exports.updateApi = async (ctx) => {
 		return
 	}
 	ctx.body = {success: true, api_id: api._id}
-	util.relauchRouter()
 }
 
 exports.destroy = async (ctx) => {
