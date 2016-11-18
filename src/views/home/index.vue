@@ -2,12 +2,14 @@
   <div>
   	<CatecoryTable></CatecoryTable>
   	<Pagination></Pagination>
+    <Intro></Intro>
   </div>
 </template>
 
 <script>
 import CatecoryTable from './CatecoryTable'
 import Pagination from './Pagination'
+import Intro from '../../components/Intro'
 
 export default{
   name: 'home',
@@ -21,7 +23,8 @@ export default{
   },
   components: {
   	CatecoryTable,
-  	Pagination
+  	Pagination,
+    Intro
   }
 }
 </script>
