@@ -7,8 +7,8 @@
     "start_mock": "./node_modules/.bin/nodemon bin/mock/run",
     "start_seed": "INITDATA=true ./node_modules/.bin/nodemon bin/run",
     "koa": "./node_modules/.bin/runkoa bin/www",
-    "pm2": "NODE_ENV=production pm2 start bin/run",
-    "pm2_mock": "NODE_ENV=production pm2 start bin/mock/run",
+    "pm2": "NODE_ENV=production pm2 start bin/run --name mock_server",
+    "pm2_mock": "NODE_ENV=production pm2 start bin/mock/run --name mock_api_server",
     "test": "mocha -r babel-register --recursive"
   },
   "dependencies": {
