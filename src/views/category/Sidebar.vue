@@ -38,13 +38,13 @@ export default {
       }).then(() => {
         this.$store.dispatch('deleteApi', item._id).then(() => {
           this.$store.dispatch('getApiList')
-          this.$notify({
+          this.$message({
             type: 'success',
             message: '删除成功'
           });
         })
       }).catch(() => {
-        this.$notify({
+        this.$message({
           type: 'info',
           message: '已取消删除'
         });          

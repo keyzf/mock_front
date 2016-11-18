@@ -48,13 +48,13 @@ export default {
       }).then(({ value }) => {
         this.$store.dispatch('addCategory', {name: value}).then(() => {
           this.$store.dispatch('getCategoryList')
-          this.$notify({
+          this.$message({
             type: 'success',
             message: '添加成功'
           });
         })
       }).catch(() => {
-        this.$notify({
+        this.$message({
           type: 'info',
           message: '取消输入'
         });       
@@ -65,12 +65,12 @@ export default {
         inputPattern: /[(\u4e00-\u9fa5)0-9a-zA-Z\_\s@]+/,
         inputErrorMessage: '名称格式不正确'
       }).then(({ value }) => {
-        this.$notify({
+        this.$message({
           type: 'success',
           message: '添加成功'
         });
       }).catch(() => {
-        this.$notify({
+        this.$message({
           type: 'info',
           message: '取消输入'
         });       
@@ -82,13 +82,13 @@ export default {
       }).then(() => {
         this.$store.dispatch('deleteCategory', row._id).then(() => {
           this.$store.dispatch('getCategoryList')
-          this.$notify({
+          this.$message({
             type: 'success',
             message: '删除成功'
           });
         })
       }).catch(() => {
-        this.$notify({
+        this.$message({
           type: 'info',
           message: '已取消删除'
         });          

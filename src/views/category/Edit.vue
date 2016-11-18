@@ -30,7 +30,7 @@
 				  <el-form-item label="">
 				  	<el-button type="success" @click="update" v-if="status == 'update'">保存</el-button>
 				  	<el-button type="success" @click="add" v-if="status == 'new'">添加</el-button>
-				  	<el-button type="primary" @click="test" v-if="status == 'update'">测试地址</el-button>
+				  	<el-button type="primary" @click="test" v-if="status == 'update'">查看接口</el-button>
 				  </el-form-item>
 				</el-col>
 			</el-form>
@@ -84,14 +84,14 @@ export default {
         if (valid) {
           this.$store.dispatch('addApi', this.currentApi).then(() => {
             this.$store.dispatch('getApiList')
-            this.$notify({
+            this.$message({
               title: '成功',
               message: '添加成功',
               type: 'success'
             })
           })
           .catch(() => {
-            this.$notify.error({
+            this.$message.error({
               title: '错误',
               message: '接口出错了'
             })
@@ -108,14 +108,14 @@ export default {
           this.$store.dispatch('updateApi', this.currentApi)
           .then(() => {
             this.$store.dispatch('getApiList', this.$route.params.id)
-            this.$notify({
+            this.$message({
               title: '成功',
               message: '保存成功',
               type: 'success'
             })
           })
           .catch(() => {
-            this.$notify.error({
+            this.$message.error({
               title: '错误',
               message: '接口出错了'
             })
@@ -128,20 +128,19 @@ export default {
     },
     test () {
       window.open(config.api_root + this.currentApi.path)
-      // console.log('test')
       // this.$store.dispatch('setTesting', true)
       // this.$store.dispatch('testApi', this.currentApi.path)
       // .then(() => {
       //   console.log('ererererere')
       //   this.$store.dispatch('setTesting', false)
-      //   this.$notify({
+      //   this.$message({
       //     title: '成功',
       //     message: '请求成功',
       //     type: 'success'
       //   })
       // })
       // .catch(() => {
-      //   this.$notify.error({
+      //   this.$message.error({
       //     title: '错误',
       //     message: '接口出错了'
       //   })
