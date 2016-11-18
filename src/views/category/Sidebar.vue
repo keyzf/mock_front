@@ -39,7 +39,6 @@ export default {
       this.$store.dispatch('selectApi', item)
       this.$store.dispatch('changeStatus', 'update')
       this.currentIndex = index
-      console.log(index)
     },
     del (item) {
       this.$confirm('此操作将永久删除该接口(' + item.name + '), 是否继续?', '提示', {

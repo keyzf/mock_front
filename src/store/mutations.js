@@ -24,7 +24,9 @@ export const getApiList = (state, options) => {
 		state.currentApi = {name: '', path: '', method: 'get', json: ''}
 		return 	
 	}
-	state.currentApi = state.apiList[options.index ? options.index : 0]	
+	if (options.index != undefined) {
+		state.currentApi = state.apiList[options.index]		
+	}
 	state.status = 'update'
 }
 
@@ -48,3 +50,7 @@ export const setFetching = (state, status) => {
 export const setTesting = (state, status) => {
 	state.testing = status
 }
+
+// export const setCurrentApiIndex = (state, index) => {
+// 	state.currentApiIndex = index
+// }
