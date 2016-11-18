@@ -3,6 +3,4 @@
 
 var current_path = process.cwd();
 
-console.log(1)
-
 require('runkoa')(current_path + '/bin/mock/www')
