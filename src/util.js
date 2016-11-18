@@ -1,48 +1,44 @@
 import Vue from 'vue'
+import {server_root} from './config'
 
 // Api
 exports.getApi = function (id) {
-	return Vue.http.get('http://localhost:3000/api/' + id + '/getApi')
+	return Vue.http.get('/api/' + id + '/getApi')
 }
 
 exports.addApi = function (api) {
-	return Vue.http.post('http://localhost:3000/api/addApi', api)
+	return Vue.http.post('/api/addApi', api)
 }
 
 exports.deleteApi = function (id) {
-	return Vue.http.delete('http://localhost:3000/api/' + id)
+	return Vue.http.delete('/api/' + id)
 }
 
 exports.updateApi = function (api) {
-	return Vue.http.put('http://localhost:3000/api/' + api._id + '/updateApi', api)
+	return Vue.http.put('/api/' + api._id + '/updateApi', api)
 }
 
 exports.getApiList = function (id) {
-	return Vue.http.get(`http://localhost:3000/api/getApiListByCategoryId?categoryId=${id}`)
+	return Vue.http.get('/api/getApiListByCategoryId?categoryId=' + id)
 }
 
 // Category
 exports.getCategory = function (id) {
-	return Vue.http.get('http://localhost:3000/category/' + id + '/getCategory')
+	return Vue.http.get('/category/' + id + '/getCategory')
 }
 
 exports.addCategory = function (options) {
-	return Vue.http.post('http://localhost:3000/category/addCategory', options)
+	return Vue.http.post('/category/addCategory', options)
 }
 
 exports.deleteCategory = function (id) {
-	return Vue.http.delete('http://localhost:3000/category/' + id)
+	return Vue.http.delete('/category/' + id)
 }
 
 exports.updateCategory = function (id, category) {
-	return Vue.http.put('http://localhost:3000/category/' + category._id + '/updateCategory', category)
+	return Vue.http.put('/category/' + category._id + '/updateCategory', category)
 }
 
 exports.getCategoryList = function (page) {
-	return Vue.http.get(`http://localhost:3000/category/getCategoryList?itemsPerPage=20&currentPage=${page}`)
-}
-
-// test
-exports.testApi = function (path) {
-	return Vue.http.get(`http://localhost:4000${path}`)
+	return Vue.http.get('/category/getCategoryList?itemsPerPage=20&currentPage=' + page)
 }
