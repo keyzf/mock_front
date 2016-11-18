@@ -25,9 +25,9 @@ export const deleteCategory = ({ commit }, id) => {
 }
 
 // Api
-export const getApiList = ({ commit }, id) => {
-  util.getApiList(id).then((res) => {
-    commit('getApiList', res)
+export const getApiList = ({ commit }, options) => {
+  util.getApiList(options.categoryId).then((res) => {
+    commit('getApiList', {res: res, index: options.index})
   })
 }
 

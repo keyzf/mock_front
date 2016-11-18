@@ -85,7 +85,7 @@ export default {
           this.currentApi.categoryId = this.$route.params.id
           this.$store.dispatch('addApi', this.currentApi)
           .then(() => {
-            this.$store.dispatch('getApiList', this.$route.params.id)
+            this.$store.dispatch('getApiList', {categoryId: this.$route.params.id})
             this.$message({
               title: '成功',
               message: '添加成功',
@@ -109,7 +109,7 @@ export default {
         if (valid) {
           this.$store.dispatch('updateApi', this.currentApi)
           .then(() => {
-            this.$store.dispatch('getApiList', this.$route.params.id)
+            this.$store.dispatch('getApiList', {categoryId: this.$route.params.id})
             this.$message({
               title: '成功',
               message: '保存成功',

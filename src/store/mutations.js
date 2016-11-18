@@ -12,18 +12,21 @@ export const getCategoryList = (state, res) => {
 }
 
 // Api
-export const getApiList = (state, res) => {
-	state.apiList = res.data.data.map((item => {
+export const getApiList = (state, options) => {
+	state.apiList = options.res.data.data.map((item => {
 		item.updatedAt = moment(item.updatedAt).format('YYYY-MM-DD HH:mm:ss')
 		item.createdAt = moment(item.createdAt).format('YYYY-MM-DD HH:mm:ss')
 		return item
 	}))
 
 	// 默认打开条数据
-	if (!state.status || state.status == 'new') {
-		state.status = 'update'
-		state.currentApi = state.apiList[0]
-	}
+	// if (!state.status || state.status == 'new') {
+	// 	state.status = 'update'
+	// 	state.currentApi = state.apiList[0]
+	// }
+	console.log(options.index)
+	state.currentApi = state.apiList[options.index ? options.index : 0]	
+	
 }
 
 export const selectApi = (state, api) => {

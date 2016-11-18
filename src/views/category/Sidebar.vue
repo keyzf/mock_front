@@ -4,7 +4,9 @@
       default-active="0" 
       class="el-menu-vertical-demo">
       <el-menu-item-group title="接口">
-        <div @click="select(item)" v-for="(item, index) in apiList">
+        <div 
+          @click="select(item, index)" 
+          v-for="(item, index) in apiList">
           <el-menu-item  
             v-bind:index="String(index)">
             <i class="el-icon-setting"></i>{{item.name}}
@@ -27,17 +29,24 @@ export default {
       fetching: 'getFetching'
     })
   },
+  data () {
+    return {
+      currentIndex: "0"
+    }
+  },
   methods: {
-    select (item) {
+    select (item, index) {
       this.$store.dispatch('selectApi', item)
       this.$store.dispatch('changeStatus', 'update')
+      this.currentIndex = index
+      console.log(index)
     },
     del (item) {
       this.$confirm('此操作将永久删除该接口(' + item.name + '), 是否继续?', '提示', {
         type: 'warning'
       }).then(() => {
         this.$store.dispatch('deleteApi', item._id).then(() => {
-          this.$store.dispatch('getApiList')
+          this.$store.dispatch('getApiList', {categoryId: this.$route.params.id, index: this.currentIndex})
           this.$message({
             type: 'success',
             message: '删除成功'
@@ -51,9 +60,7 @@ export default {
       });
     },
     add () {
-      
       this.$store.dispatch('selectApi', {name: '', path: '', method: 'get', json: ''})
-      // this.$store.dispatch('selectApi', {name: '测试007', path: '/api/get', method: 'get', response: '{"name": "admin"}'})
       this.$store.dispatch('changeStatus', 'new')
     }
   }

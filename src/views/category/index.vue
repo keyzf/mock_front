@@ -24,7 +24,7 @@ export default {
     TestApi
   },
   created () {
-    this.$store.dispatch('getApiList', this.$route.params.id)
+    this.$store.dispatch('getApiList', {categoryId: this.$route.params.id})
   }
 }
 </script>
