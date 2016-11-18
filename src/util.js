@@ -5,8 +5,8 @@ exports.getApi = function (id) {
 	return Vue.http.get('http://localhost:3000/api/' + id + '/getApi')
 }
 
-exports.addApi = function (options) {
-	return Vue.http.post('http://localhost:3000/api/addApi', options)
+exports.addApi = function (api) {
+	return Vue.http.post('http://localhost:3000/api/addApi', api)
 }
 
 exports.deleteApi = function (id) {

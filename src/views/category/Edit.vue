@@ -82,8 +82,10 @@ export default {
   	add () {
       this.$refs.currentApi.validate((valid) => {
         if (valid) {
-          this.$store.dispatch('addApi', this.currentApi).then(() => {
-            this.$store.dispatch('getApiList')
+          this.currentApi.categoryId = this.$route.params.id
+          this.$store.dispatch('addApi', this.currentApi)
+          .then(() => {
+            this.$store.dispatch('getApiList', this.$route.params.id)
             this.$message({
               title: '成功',
               message: '添加成功',

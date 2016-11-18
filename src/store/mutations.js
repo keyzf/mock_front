@@ -18,7 +18,9 @@ export const getApiList = (state, res) => {
 		item.createdAt = moment(item.createdAt).format('YYYY-MM-DD HH:mm:ss')
 		return item
 	}))
-	if (!state.status) {
+
+	// 默认打开条数据
+	if (!state.status || state.status == 'new') {
 		state.status = 'update'
 		state.currentApi = state.apiList[0]
 	}
