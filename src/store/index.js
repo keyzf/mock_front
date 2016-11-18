@@ -9,7 +9,7 @@ Vue.use(Vuex)
 const state = {
 	category: {list: [], count: 0},
 	apiList: [],
-	currentApi: {},
+	currentApi: null,
 	status: '',
 	test: {url: '', response: null},
 	fetching: false,

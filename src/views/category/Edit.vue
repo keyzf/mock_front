@@ -1,7 +1,7 @@
 <template>
 	<div class="container">
     <el-col :span="22">
-    	<el-form ref="currentApi" label-width="100px" :model="currentApi" :rules="apiRules">
+    	<el-form v-if="currentApi" ref="currentApi" label-width="100px" :model="currentApi" :rules="apiRules">
 			  <el-form-item label="接口名称" prop="name">
 			    <el-input v-model="currentApi.name" placeholder="请输入接口名称"></el-input>
 			  </el-form-item>
@@ -60,6 +60,14 @@ export default {
         callback();
       }
     }
+    let validatePath = (rule, value, callback) => {
+      let firstLetter = value.slice(0, 1)
+      if (firstLetter != '/') {
+        callback(new Error('路径的必须以"/"开头'));
+      } else {
+        callback();
+      }
+    }
     return {
       apiRules: {
         name: [
@@ -67,6 +75,7 @@ export default {
         ],
         path: [
           { required: true, message: '请输入接口路径', trigger: 'blur' },
+          { validator: validatePath, trigger: 'blur' }
         ],
         method: [
           { required: true, message: '请输入请求方法', trigger: 'blur' },
@@ -85,7 +94,7 @@ export default {
           this.currentApi.categoryId = this.$route.params.id
           this.$store.dispatch('addApi', this.currentApi)
           .then(() => {
-            this.$store.dispatch('getApiList', {categoryId: this.$route.params.id})
+            this.$store.dispatch('getApiList', {categoryId: this.$route.params.id, index: 0})
             this.$message({
               title: '成功',
               message: '添加成功',

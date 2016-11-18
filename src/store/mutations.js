@@ -19,14 +19,13 @@ export const getApiList = (state, options) => {
 		return item
 	}))
 
-	// 默认打开条数据
-	// if (!state.status || state.status == 'new') {
-	// 	state.status = 'update'
-	// 	state.currentApi = state.apiList[0]
-	// }
-	console.log(options.index)
+	if (options.res.data.data.length == 0) {
+		state.status = 'new'
+		state.currentApi = {name: '', path: '', method: 'get', json: ''}
+		return 	
+	}
 	state.currentApi = state.apiList[options.index ? options.index : 0]	
-	
+	state.status = 'update'
 }
 
 export const selectApi = (state, api) => {
