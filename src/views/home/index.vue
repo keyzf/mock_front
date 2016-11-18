@@ -2,22 +2,15 @@
   <div>
   	<CatecoryTable></CatecoryTable>
   	<Pagination></Pagination>
-    <!-- <button @click="add">加</button>{{count}} -->
   </div>
 </template>
 
 <script>
 import CatecoryTable from './CatecoryTable'
 import Pagination from './Pagination'
-import { mapGetters } from 'vuex'
 
 export default{
   name: 'home',
-  computed: {
-    ...mapGetters({
-      count: 'getCount'
-    })
-  },
   created () {
     this.$store.dispatch('getCategoryList', 1)
   },
