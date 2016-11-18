@@ -3,6 +3,7 @@
 const mongoose = require('mongoose');
 const Api = mongoose.model('Api');
 const router = require('koa-router')();
+const Mock = require('mockjs')
 
 function handleRequest() {
 	return async (ctx) => {
@@ -13,7 +14,7 @@ function handleRequest() {
 	  	ctx.body = "接口不存在"
 	  	return false
 	  }
-	  ctx.body = JSON.parse(api[0].response)
+	  ctx.body = Mock.mock(JSON.parse(api[0].response))
 	}
 }
 
