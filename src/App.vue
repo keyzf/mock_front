@@ -14,6 +14,9 @@ export default {
   name: 'app',
   components: {
     NavMenu
+  },
+  created () {
+    document.querySelector('#cssload-contain').style.display = 'none'
   }
 }
 </script>
