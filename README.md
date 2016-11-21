@@ -2,6 +2,8 @@
 
 > 接口管理平台后端
 
+技术栈：koa2 + mongodb。
+
 项目有两个独立的server
 
 - 负责提供平台接口的server，地址是`localhost：4001`
