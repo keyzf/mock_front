@@ -14,7 +14,12 @@ function handleRequest() {
 	  	ctx.body = "接口不存在"
 	  	return false
 	  }
-	  ctx.body = Mock.mock(JSON.parse(api[0].response))
+
+	  if (api[0].method == 'jsonp') {
+	  	ctx.body = ctx.query.callback + '(' +  JSON.stringify(Mock.mock(JSON.parse(api[0].response))) + ')'	
+	  } else {
+	  	ctx.body = Mock.mock(JSON.parse(api[0].response))	
+	  }
 	}
 }
 
