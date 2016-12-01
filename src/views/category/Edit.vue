@@ -13,6 +13,7 @@
 				    <el-select placeholder="请求方法" v-model="currentApi.method">
 				      <el-option label="GET" value="get"></el-option>
 				      <el-option label="POST" value="post"></el-option>
+              <el-option label="JSONP" value="jsonp"></el-option>
 				    </el-select>
 				  </el-form-item>
 			  </el-col>
