@@ -1,4 +1,5 @@
 {
+<<<<<<< HEAD
   "presets": ["es2015", "stage-2"],
   "plugins": ["transform-runtime", ["component", [
     {
@@ -8,3 +9,7 @@
   ]]],
   "comments": false
 }
+=======
+  "plugins": ["transform-async-to-generator"]
+}
+>>>>>>> c4ccffc90839fe434532436390a98e09dea44623

@@ -1,0 +1,147 @@
+2016-11-17 21:01 +08:00: [ { _id: 582d81820bb9317b930241bc,
+    updatedAt: 2016-11-17T10:08:02.000Z,
+    createdAt: 2016-11-17T10:08:02.000Z,
+    __v: 0,
+    categoryId: '582d81820bb9317b930241ba',
+    response: '{  \n   "result":true,\n   "code":0,\n   "desc":null,\n   "data":{  \n      "payUrl2":[  \n         "http://vip.yy.com/vip/vmall2/hdplatform/fromProductId/602254",\n         "http://vip.yy.com/vip/vmall2/hdplatform/fromProductId/602256"\n      ],\n      "drawGiftGroupId2":"20161173f92e972",\n      "payUrls1":[  \n         "http://vip.yy.com/vip/vmall2/hdplatform/fromProductId/602246",\n         "http://vip.yy.com/vip/vmall2/hdplatform/fromProductId/602258",\n         "http://vip.yy.com/vip/vmall2/hdplatform/fromProductId/602248",\n         "http://vip.yy.com/vip/vmall2/hdplatform/fromProductId/602250"\n      ],\n      "drawGiftGroupId3":"20161173f92e625",\n      "hdTime":{  \n         "startDate":1478685000000,\n         "endDate":1479808800000,\n         "over":false,\n         "startDateStr":"2016-11-09 17:50:00",\n         "endDateStr":"2016-11-22 18:00:00"\n      },\n      "drawGiftGroupId1":"20161173f92e240",\n      "payUrl3":[  \n         "http://vip.yy.com/vip/vmall2/hdplatform/fromProductId/602260",\n         "http://vip.yy.com/vip/vmall2/hdplatform/fromProductId/602262",\n         "http://vip.yy.com/vip/vmall2/hdplatform/fromProductId/602264"\n      ],\n      "flag1":1,\n      "hdIndex":"20161173f92e",\n      "flag2":1\n   }\n}',
+    method: 'get',
+    path: '/service/act/viphd/1611doubleeleven/indexInfo',
+    name: '初始化接口' },
+  { _id: 582d81820bb9317b930241bd,
+    updatedAt: 2016-11-17T10:08:02.000Z,
+    createdAt: 2016-11-17T10:08:02.000Z,
+    __v: 0,
+    categoryId: '582d81820bb9317b930241bb',
+    response: '{  \n   "result":false,\n   "code":0,\n   "desc":null,\n   "data":{  \n      "actDate":{  \n         "startDate":1479295200000,\n         "endDate":1481104800000,\n         "over":false,\n         "startDateStr":"2016-11-16 19:20:00",\n         "endDateStr":"2016-12-07 18:00:00"\n      },\n      "cardsGroup":[  \n\n      ],\n      "leftCount":1\n   }\n}',
+    method: 'get',
+    path: '/service/act/1611poker/indexinfo',
+    name: '初始化接口' } ]
+2016-11-17 21:01 +08:00: [ { _id: 582d81820bb9317b930241bc,
+    updatedAt: 2016-11-17T10:08:02.000Z,
+    createdAt: 2016-11-17T10:08:02.000Z,
+    __v: 0,
+    categoryId: '582d81820bb9317b930241ba',
+    response: '{  \n   "result":true,\n   "code":0,\n   "desc":null,\n   "data":{  \n      "payUrl2":[  \n         "http://vip.yy.com/vip/vmall2/hdplatform/fromProductId/602254",\n         "http://vip.yy.com/vip/vmall2/hdplatform/fromProductId/602256"\n      ],\n      "drawGiftGroupId2":"20161173f92e972",\n      "payUrls1":[  \n         "http://vip.yy.com/vip/vmall2/hdplatform/fromProductId/602246",\n         "http://vip.yy.com/vip/vmall2/hdplatform/fromProductId/602258",\n         "http://vip.yy.com/vip/vmall2/hdplatform/fromProductId/602248",\n         "http://vip.yy.com/vip/vmall2/hdplatform/fromProductId/602250"\n      ],\n      "drawGiftGroupId3":"20161173f92e625",\n      "hdTime":{  \n         "startDate":1478685000000,\n         "endDate":1479808800000,\n         "over":false,\n         "startDateStr":"2016-11-09 17:50:00",\n         "endDateStr":"2016-11-22 18:00:00"\n      },\n      "drawGiftGroupId1":"20161173f92e240",\n      "payUrl3":[  \n         "http://vip.yy.com/vip/vmall2/hdplatform/fromProductId/602260",\n         "http://vip.yy.com/vip/vmall2/hdplatform/fromProductId/602262",\n         "http://vip.yy.com/vip/vmall2/hdplatform/fromProductId/602264"\n      ],\n      "flag1":1,\n      "hdIndex":"20161173f92e",\n      "flag2":1\n   }\n}',
+    method: 'get',
+    path: '/service/act/viphd/1611doubleeleven/indexInfo',
+    name: '初始化接口' },
+  { _id: 582d81820bb9317b930241bd,
+    updatedAt: 2016-11-17T10:08:02.000Z,
+    createdAt: 2016-11-17T10:08:02.000Z,
+    __v: 0,
+    categoryId: '582d81820bb9317b930241bb',
+    response: '{  \n   "result":false,\n   "code":0,\n   "desc":null,\n   "data":{  \n      "actDate":{  \n         "startDate":1479295200000,\n         "endDate":1481104800000,\n         "over":false,\n         "startDateStr":"2016-11-16 19:20:00",\n         "endDateStr":"2016-12-07 18:00:00"\n      },\n      "cardsGroup":[  \n\n      ],\n      "leftCount":1\n   }\n}',
+    method: 'get',
+    path: '/service/act/1611poker/indexinfo',
+    name: '初始化接口' } ]
+2016-11-17 21:01 +08:00:   <-- GET /service/act/1611poker/indexinfo
+2016-11-17 21:01 +08:00:   --> GET /service/act/1611poker/indexinfo 200 12ms 223b
+2016-11-17 21:01 +08:00:   <-- GET /service/act/1611poker/indexinfo
+2016-11-17 21:01 +08:00:   --> GET /service/act/1611poker/indexinfo 200 2ms 223b
+2016-11-17 21:01 +08:00:   <-- GET /service/act/1611poker/indexinfo
+2016-11-17 21:01 +08:00:   --> GET /service/act/1611poker/indexinfo 200 12ms 223b
+2016-11-17 21:02 +08:00:   <-- GET /service/act/1611poker/indexinfo
+2016-11-17 21:02 +08:00:   --> GET /service/act/1611poker/indexinfo 200 6ms 223b
+2016-11-17 21:02 +08:00:   <-- GET /service/act/1611poker/indexinfo
+2016-11-17 21:02 +08:00:   --> GET /service/act/1611poker/indexinfo 200 3ms 223b
+2016-11-17 21:02 +08:00:   <-- GET /service/act/1611poker/indexinfo
+2016-11-17 21:02 +08:00:   --> GET /service/act/1611poker/indexinfo 200 2ms 223b
+2016-11-17 21:02 +08:00:   <-- GET /service/act/1611poker/indexinfo
+2016-11-17 21:02 +08:00:   --> GET /service/act/1611poker/indexinfo 200 1ms 223b
+2016-11-17 21:02 +08:00:   <-- GET /service/act/1611poker/indexinfo
+2016-11-17 21:02 +08:00:   --> GET /service/act/1611poker/indexinfo 200 3ms 223b
+2016-11-17 21:02 +08:00:   <-- GET /service/act/1611poker/indexinfo
+  --> GET /service/act/1611poker/indexinfo 200 3ms 223b
+2016-11-17 21:02 +08:00:   <-- GET /service/act/1611poker/indexinfo
+2016-11-17 21:02 +08:00:   --> GET /service/act/1611poker/indexinfo 200 3ms 223b
+2016-11-17 21:02 +08:00:   <-- GET /service/act/1611poker/indexinfo
+2016-11-17 21:02 +08:00:   --> GET /service/act/1611poker/indexinfo 200 2ms 223b
+2016-11-17 21:06 +08:00: [ { _id: 582d81820bb9317b930241bc,
+    updatedAt: 2016-11-17T10:08:02.000Z,
+    createdAt: 2016-11-17T10:08:02.000Z,
+    __v: 0,
+    categoryId: '582d81820bb9317b930241ba',
+    response: '{  \n   "result":true,\n   "code":0,\n   "desc":null,\n   "data":{  \n      "payUrl2":[  \n         "http://vip.yy.com/vip/vmall2/hdplatform/fromProductId/602254",\n         "http://vip.yy.com/vip/vmall2/hdplatform/fromProductId/602256"\n      ],\n      "drawGiftGroupId2":"20161173f92e972",\n      "payUrls1":[  \n         "http://vip.yy.com/vip/vmall2/hdplatform/fromProductId/602246",\n         "http://vip.yy.com/vip/vmall2/hdplatform/fromProductId/602258",\n         "http://vip.yy.com/vip/vmall2/hdplatform/fromProductId/602248",\n         "http://vip.yy.com/vip/vmall2/hdplatform/fromProductId/602250"\n      ],\n      "drawGiftGroupId3":"20161173f92e625",\n      "hdTime":{  \n         "startDate":1478685000000,\n         "endDate":1479808800000,\n         "over":false,\n         "startDateStr":"2016-11-09 17:50:00",\n         "endDateStr":"2016-11-22 18:00:00"\n      },\n      "drawGiftGroupId1":"20161173f92e240",\n      "payUrl3":[  \n         "http://vip.yy.com/vip/vmall2/hdplatform/fromProductId/602260",\n         "http://vip.yy.com/vip/vmall2/hdplatform/fromProductId/602262",\n         "http://vip.yy.com/vip/vmall2/hdplatform/fromProductId/602264"\n      ],\n      "flag1":1,\n      "hdIndex":"20161173f92e",\n      "flag2":1\n   }\n}',
+    method: 'get',
+    path: '/service/act/viphd/1611doubleeleven/indexInfo',
+    name: '初始化接口' },
+  { _id: 582d81820bb9317b930241bd,
+    updatedAt: 2016-11-17T10:08:02.000Z,
+    createdAt: 2016-11-17T10:08:02.000Z,
+    __v: 0,
+    categoryId: '582d81820bb9317b930241bb',
+    response: '{  \n   "result":false,\n   "code":0,\n   "desc":null,\n   "data":{  \n      "actDate":{  \n         "startDate":1479295200000,\n         "endDate":1481104800000,\n         "over":false,\n         "startDateStr":"2016-11-16 19:20:00",\n         "endDateStr":"2016-12-07 18:00:00"\n      },\n      "cardsGroup":[  \n\n      ],\n      "leftCount":2\n   }\n}',
+    method: 'get',
+    path: '/service/act/1611poker/indexinfo',
+    name: '初始化接口' } ]
+2016-11-17 21:06 +08:00:   <-- GET /service/act/1611poker/indexinfo
+2016-11-17 21:06 +08:00:   --> GET /service/act/1611poker/indexinfo 200 41ms 223b
+2016-11-17 21:06 +08:00:   <-- GET /service/act/1611poker/indexinfo
+2016-11-17 21:06 +08:00:   --> GET /service/act/1611poker/indexinfo 200 5ms 223b
+2016-11-17 21:06 +08:00:   <-- GET /service/act/1611poker/indexinfo
+2016-11-17 21:06 +08:00:   --> GET /service/act/1611poker/indexinfo 200 1ms 223b
+2016-11-17 21:06 +08:00:   <-- GET /service/act/1611poker/indexinfo
+2016-11-17 21:06 +08:00:   --> GET /service/act/1611poker/indexinfo 200 2ms 223b
+2016-11-17 21:07 +08:00:   <-- GET /service/act/1611poker/indexinfo
+2016-11-17 21:07 +08:00:   --> GET /service/act/1611poker/indexinfo 200 3ms 223b
+2016-11-17 21:08 +08:00: 12
+2016-11-17 21:08 +08:00: 12
+2016-11-17 21:08 +08:00: 12
+2016-11-17 21:08 +08:00: 12
+2016-11-17 21:08 +08:00: 12
+2016-11-17 21:08 +08:00: 12
+2016-11-17 21:08 +08:00: 12
+2016-11-17 21:08 +08:00: 12
+2016-11-17 21:08 +08:00: 12
+2016-11-17 21:09 +08:00: 12
+2016-11-17 21:09 +08:00: 12
+2016-11-17 21:09 +08:00: 12
+2016-11-17 21:09 +08:00: 12
+2016-11-17 21:09 +08:00: 12
+2016-11-17 21:09 +08:00: 12
+2016-11-17 21:09 +08:00: 12
+2016-11-17 21:09 +08:00: 12
+2016-11-17 21:09 +08:00: 12
+2016-11-17 21:09 +08:00: 12
+2016-11-17 21:09 +08:00: 12
+2016-11-17 21:09 +08:00: 12
+2016-11-17 21:09 +08:00: 12
+2016-11-17 21:09 +08:00: 12
+2016-11-17 21:09 +08:00: 12
+2016-11-17 21:09 +08:00: 12
+2016-11-17 21:09 +08:00: 12
+2016-11-17 21:09 +08:00: 12
+2016-11-17 21:09 +08:00: 12
+2016-11-17 21:09 +08:00: 12
+2016-11-17 21:09 +08:00: 12
+2016-11-17 21:09 +08:00: 12
+2016-11-17 21:09 +08:00: 12
+2016-11-17 21:09 +08:00: 12
+2016-11-17 21:09 +08:00: 12
+2016-11-17 21:09 +08:00: 12
+2016-11-17 21:09 +08:00: 12
+2016-11-17 21:09 +08:00: 12
+2016-11-17 21:09 +08:00: 12
+2016-11-17 21:09 +08:00: 12
+2016-11-17 21:09 +08:00: 12
+2016-11-17 21:09 +08:00: 12
+2016-11-17 21:09 +08:00: 12
+2016-11-17 21:09 +08:00: 12
+2016-11-17 21:09 +08:00: 12
+2016-11-17 21:09 +08:00: 12
+2016-11-17 21:09 +08:00: 12
+2016-11-17 21:10 +08:00: 12
+2016-11-17 21:10 +08:00: 12
+2016-11-17 21:10 +08:00: 12
+2016-11-17 21:10 +08:00: 12
+2016-11-17 21:10 +08:00: 12
+2016-11-17 21:10 +08:00: 12
+2016-11-17 21:10 +08:00: 12
+2016-11-17 21:10 +08:00: 12
+2016-11-17 21:10 +08:00: 12
+2016-11-17 21:10 +08:00: 12
+2016-11-17 21:10 +08:00: 12
+2016-11-17 21:10 +08:00: 12
+2016-11-17 21:10 +08:00: 12
+2016-11-17 21:10 +08:00: 12
+2016-11-17 21:10 +08:00: 12
