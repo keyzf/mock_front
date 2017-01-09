@@ -139,6 +139,7 @@ export default {
       })
     },
     test () {
+      console.log(config.api_root)
       window.open(config.api_root + this.currentApi.path)
       // this.$store.dispatch('setTesting', true)
       // this.$store.dispatch('testApi', this.currentApi.path)
