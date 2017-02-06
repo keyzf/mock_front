@@ -1,27 +1,20 @@
-# mock_server
+# mock_front
 
-> 接口管理平台后端
+> 接口管理平台前端
 
-技术栈：koa2 + mongodb。
+技术栈：vue.js + Vue.js 2.0 UI。
 
-项目有两个独立的server
-
-- 负责提供平台接口的server，地址是`localhost：4001`
-- 负责提供测试api的server，地址是`localhost:8090`
+前后端分离的项目，后端项目是mock_server。
 
 ## 命令
 
 ```bash
-# 启动服务, localhost:4001
-npm run start
+# 安装依赖
+npm install
 
-# 启动测试api服务, localhost: 8090
-npm run start_mock
+# 开发, 访问地址：localhost:3000
+npm run dev
 
-# 线上部署服务
-npm run pm2
-
-# 线上部署测试api服务
-npm run pm2_mock
+# 打包
+npm run build
 ```
-
